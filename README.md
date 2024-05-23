@@ -1,2 +1,2 @@
 # CardGame
-Simple cadgame
+Simple cardgame
