@@ -1414,3 +1414,648 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.23-15.49.30:233][222]LogSlate: Window 'Message Log' being destroyed
 [2024.05.23-15.51.18:962][956]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.072 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
 [2024.05.23-16.51.19:938][755]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.048 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
+[2024.05.23-17.07.38:197][482]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.23-17.07.38:254][483]LogAutomationController: Ignoring very large delta of 3.92 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.23-17.07.51:898][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.05.23-17.08.13:043][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-17.08.34:033][732]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.23-17.19.06:723][ 22]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.23-17.19.06:732][ 22]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.23-17.30.17:285][528]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.23-17.30.17:532][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.23-17.30.17:542][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.05.23-17.30.17:549][528]LogSavePackage: Moving output files for package: /Game/CardUI
+[2024.05.23-17.30.17:550][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/CardUIEFDDD1EE4654E3887D6BAD89BDDA7AF5.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI.umap'
+[2024.05.23-17.30.17:571][528]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/CardUI_HLOD0_Instancing
+/Game/__ExternalActors__/CardUI/3/58/S7VLBGDDJL0OONKGDBQF0I
+/Game/__ExternalObjects__/CardUI/E/RV/0IIDB2AFLQL20VYZ387SR2
+/Game/__ExternalObjects__/CardUI/C/WG/06GFYM0QBQ7VCJW3HTN4Y3
+/Game/__ExternalObjects__/CardUI/9/3I/2ET70P6YAMQG9HT1RXZP1E
+/Game/__ExternalObjects__/CardUI/3/6C/AYM6PDDIV1YH7ZY1RP4YYD
+/Game/__ExternalObjects__/CardUI/8/G2/8YSP50JR7PRHCHNB63MOU0
+/Game/__ExternalObjects__/CardUI/B/58/3SJ964K1WR4Y35GQQJX3Y2
+/Game/__ExternalActors__/CardUI/4/YK/8WGRE2MUTA1JPD1QW0ZQJP
+/Game/__ExternalActors__/CardUI/1/O1/SSUMGD4ZT2ILR1AHCKG3EK
+/Game/__ExternalActors__/CardUI/5/NQ/MZFJGHIVKEVRQ7AZC6O8ZZ
+/Game/__ExternalActors__/CardUI/7/OW/2N1DXNB0YWZXPJBZ7A1NRH
+/Game/__ExternalActors__/CardUI/A/HL/DH45V9NU4BVXLAP6GS6RXU
+/Game/__ExternalActors__/CardUI/9/AX/E2JWFCESQ0X3INH5F2JKIA
+/Game/__ExternalActors__/CardUI/B/J9/O3UYBKSH27SVFLEUAQ53TC
+/Game/__ExternalActors__/CardUI/7/IA/3IZVH39GYAJH97NW7IR02B
+/Game/__ExternalActors__/CardUI/6/BI/WBRG5HXZPX5P7ZK5JAIJTH
+/Game/__ExternalActors__/CardUI/E/TM/0HBW1AP8I5CEPA55Q8SFWI
+/Game/__ExternalActors__/CardUI/2/E9/949UDJ2MAWIF5KSU822O2K
+/Game/__ExternalActors__/CardUI/0/5I/7W6CSYLR63L9GKD8IFAFOI
+/Game/__ExternalActors__/CardUI/D/SM/YFZMJ8P314PCJTN6ID0PYG
+/Game/__ExternalActors__/CardUI/7/03/6LC783J8NVP6VYES0FKF9B
+/Game/__ExternalActors__/CardUI/5/FV/JILHQXD7YEAH76KK9BXH8H
+/Game/__ExternalActors__/CardUI/9/NJ/SE6O2VE6U6WF7PBZ91FFYU
+/Game/__ExternalActors__/CardUI/E/6W/KXYZMTPTOFG6Q6SH7SRH0A
+/Game/__ExternalActors__/CardUI/0/UI/G4G43BARD2IKUAU2D546SY
+/Game/__ExternalActors__/CardUI/B/67/IGB325MBO8BJ5HE2WW5OJD
+/Game/__ExternalActors__/CardUI/7/PU/US5L4MYZPLIDD0M5TUZSQW
+/Game/__ExternalActors__/CardUI/6/BZ/3FXAU6O5KHE7XS97C5NUSX
+/Game/__ExternalActors__/CardUI/0/B9/C0301D6JRJUZ0TG08E4SRM
+/Game/__ExternalActors__/CardUI/4/ZL/D40JWYELHZ47R13M7EKK3P
+/Game/__ExternalActors__/CardUI/8/6Y/2K98Z6VTSIVBXQN0L9AQVM
+/Game/__ExternalActors__/CardUI/8/QE/L7LU6RRAG93TQGUA2OAAU3
+/Game/__ExternalActors__/CardUI/4/58/UWIQQJO65EL1AK15KL37UL
+/Game/__ExternalActors__/CardUI/8/V7/354L2ZD1J598P9NOGX94XG
+/Game/__ExternalActors__/CardUI/0/FU/BN6B5M2FOW30HTQLXCN9J3
+/Game/__ExternalActors__/CardUI/6/3L/66BLZ5OSGJ2Z6JQ33BNWG6
+/Game/__ExternalActors__/CardUI/6/6Z/RLZ485BJI2P3C8IWZ6ZR4A
+/Game/__ExternalActors__/CardUI/5/89/OY84NLV6LV4FYIYEQHOTKI
+/Game/__ExternalActors__/CardUI/A/U2/TCQ5T5GEYLEO82REFHSVK6
+/Game/__ExternalActors__/CardUI/0/VQ/93BI91N8WKFN75D5JHJPK1
+/Game/__ExternalActors__/CardUI/7/SP/ZBJYQCWP51E1Z837YB7EVK
+/Game/__ExternalActors__/CardUI/2/1P/ICNX4PVC3ZTMF8PH7Q5GM0
+/Game/__ExternalActors__/CardUI/E/8E/E9IWRJTK4CU579WWQ5NH0X
+/Game/__ExternalActors__/CardUI/A/JD/RH4CM35NKYAHO270EH0YIB
+/Game/__ExternalActors__/CardUI/3/67/OOOWJA5FVA5EZOGSJD8HGZ
+/Game/__ExternalActors__/CardUI/8/R0/QKTMDK6QVYRLJ9U6DDZDMK
+/Game/__ExternalActors__/CardUI/6/8V/FQW32US0AQPIKNINIYWI9Q
+/Game/__ExternalActors__/CardUI/E/1L/0YMBNTMNVWM1Z7SL75AJWZ
+/Game/__ExternalActors__/CardUI/2/WE/MWWI473ZLLPO9LGIM8G4VG
+/Game/__ExternalActors__/CardUI/D/N9/W5TLKF4R549SLEQQRZ74SU
+/Game/__ExternalActors__/CardUI/5/0Y/ME7JQ98TUM4ZGJY6TT36J7
+/Game/__ExternalActors__/CardUI/E/24/BSX0L645DQXDJTNDHHZZNU
+/Game/__ExternalActors__/CardUI/B/VO/JPV7YHH9MC6AMZC9WLND2L
+/Game/__ExternalActors__/CardUI/4/VQ/88ZDBG36F2JWGTWHZC76HQ
+/Game/__ExternalActors__/CardUI/5/MD/WT4AKOZXJE0CGE79IV8MAL
+/Game/__ExternalActors__/CardUI/6/2P/FC34OPINSMVS2YRBDMGR5I
+/Game/__ExternalActors__/CardUI/7/E1/V1HBD491VST9ILIM2FH4ZD
+/Game/__ExternalActors__/CardUI/D/4J/3ZUUZSA3QX016KZ5GN9E80
+/Game/__ExternalActors__/CardUI/4/F5/NK0E487LMV2PBZ3XW8HZUF
+/Game/__ExternalActors__/CardUI/9/8A/4YF0TZW5GM61LTPOQ4AMX0
+/Game/__ExternalActors__/CardUI/5/6W/9702L558ECLWB6A6AFQP7U
+/Game/__ExternalActors__/CardUI/2/CE/GOROO5GFCIBCNQDVTOI58F
+/Game/__ExternalActors__/CardUI/5/X3/ANT9INSXFSE8VIVOYXG1IT
+/Game/__ExternalActors__/CardUI/E/AC/WRH54BY1JH5GV0J3IQ3EE6
+/Game/__ExternalActors__/CardUI/A/YO/R9ES5UFTCFYW78K0L722QT
+/Game/__ExternalActors__/CardUI/1/IF/QVSH0EKTK7AQU6V4ERJEQI
+/Game/__ExternalActors__/CardUI/E/5T/ZVA9JBCSSCVW6XHUY7KAQJ
+/Game/__ExternalActors__/CardUI/5/UF/DFM4R6XLRNSV1Y08D7KAVX
+/Game/__ExternalActors__/CardUI/4/K7/KQXZDL2F4Q42GVW02IUKZM
+/Game/__ExternalActors__/CardUI/9/KX/VA7LT9SCLJA6W7KZVUGFZ7
+/Game/__ExternalActors__/CardUI/6/E7/II8JKH4W3AFLAIA78UD5M7
+/Game/__ExternalActors__/CardUI/2/PC/MZEWU2W1ISPBCLA16BH3RK
+/Game/__ExternalActors__/CardUI/E/NL/IWZXXRA9VKDILGMWHV0Q8L
+/Game/__ExternalActors__/CardUI/3/F4/3DBH4BJ43027057613PVDR
+/Game/__ExternalActors__/CardUI/C/UT/3ZM4Q20QJ2200COK0BVQMB
+/Game/__ExternalActors__/CardUI/9/JI/6K1PSU3XAWUPL8J1XNPO5T
+/Game/__ExternalActors__/CardUI/B/0O/LE8I1AI8E6RI4MYDGB7CSV
+/Game/__ExternalActors__/CardUI/8/Z0/RDKQGBBLW3YZP81AEE5X9C
+/Game/__ExternalActors__/CardUI/A/KW/9M9H3IXZLK6YX7XUWCIDY6
+/Game/__ExternalActors__/CardUI/4/P3/PRRQU84QKVCM5HJSFPTSA4
+/Game/__ExternalActors__/CardUI/9/88/3LTICJD3UMH3BGT18CQKSI
+/Game/__ExternalActors__/CardUI/E/E0/HCX4UL2ECSQOA0KYZQAV9D
+/Game/__ExternalActors__/CardUI/0/SX/LHHEKXJEV903KFW6O9NLK1
+/Game/__ExternalActors__/CardUI/1/M4/G0LYHEKV5IKS6SNQG23GDF
+/Game/__ExternalActors__/CardUI/1/KP/CRK6AUD0RE97WKX2I92XQS
+/Game/__ExternalActors__/CardUI/3/PN/QNE7KD21I71512LH237NW1
+/Game/__ExternalActors__/CardUI/9/X4/MCP9TXQDKSBD61US4CMFWH
+/Game/__ExternalActors__/CardUI/0/83/RA8Y7XANAYJOGCXYKOYETX
+/Game/__ExternalActors__/CardUI/D/WY/SO9Y0KA28FK2ZY2WL6SOUW
+/Game/__ExternalActors__/CardUI/D/XS/RGROY0GL5V4JUKFPSJ7JMM
+/Game/__ExternalActors__/CardUI/5/XO/EFGKVNPE5F2N32JL83DHAR
+/Game/__ExternalActors__/CardUI/C/WT/XSZMJ3J6A1B2GHX091J61J
+/Game/__ExternalActors__/CardUI/0/QP/WP1A2HXQN54HJAL6QPWYSP
+/Game/__ExternalActors__/CardUI/A/WY/WGJW5NZRD19EIK2VZW5NFB
+/Game/__ExternalActors__/CardUI/9/P2/EF7N8CO426RMDOSND7K9PX
+/Game/__ExternalActors__/CardUI/3/T9/ELWK7KRCP1TP719IT2NOX8
+/Game/__ExternalActors__/CardUI/6/RM/ZRK70DEN0H1BZ74AICB7KI
+/Game/__ExternalActors__/CardUI/7/BW/BZVMM2CXKWKNUI991WX16M
+/Game/__ExternalActors__/CardUI/D/57/IOHH0FFAYY551IBYGN3BMH
+/Game/__ExternalActors__/CardUI/5/IM/23W9PSKLH0ORF4DHJNKWFL
+/Game/__ExternalActors__/CardUI/2/RQ/CPIF38C2ZXWRMPOOVRS0RM
+/Game/__ExternalActors__/CardUI/0/LC/A902PI0X3QMNBV3X6VS9Z3
+/Game/__ExternalActors__/CardUI/C/3R/8PR1Z863GAJH47EO1YZZ1Y
+/Game/__ExternalActors__/CardUI/D/20/XNGB93SM3RYLV1UBXZI3PI
+/Game/__ExternalActors__/CardUI/2/10/KPLKP3VTJLHIWCESL1666Q
+/Game/__ExternalActors__/CardUI/3/91/PZ5WPVPIGJ4TAZLR8PMKPN
+/Game/__ExternalActors__/CardUI/8/W7/K2Y99HTGEUQP2MNUWGID05
+/Game/__ExternalActors__/CardUI/1/HB/F93IONBGPFMX77UGI9UX6Q
+/Game/__ExternalActors__/CardUI/9/H2/Z17REWZCAJTOQL78TGWC77
+/Game/__ExternalActors__/CardUI/4/94/K913TF9D1Z8V4J3HF9UG8J
+/Game/__ExternalActors__/CardUI/2/YT/BYQ2MTJAPZYY4MV3F53THB
+/Game/__ExternalActors__/CardUI/8/SN/SQQRD2W77J6JEH2NW0MROS
+/Game/__ExternalActors__/CardUI/8/40/86BJOF27372Z33XVMW1B8E
+/Game/__ExternalActors__/CardUI/4/2Z/8XWT4C9LQS057MYG5WZCNQ
+/Game/__ExternalActors__/CardUI/1/VW/WRM3OR6HYV3F9YXF1BAFNE
+/Game/__ExternalActors__/CardUI/A/67/WQZSFLJXZSUJHM74AWK8ZF
+/Game/__ExternalActors__/CardUI/8/BS/OXDE8H66G7P1Q55POZMGRB
+/Game/__ExternalActors__/CardUI/A/EB/KFT86Q44YJ0JKUAMA0YUIJ
+/Game/__ExternalActors__/CardUI/5/55/991A4RIS959LNOT575Y69N
+/Game/__ExternalActors__/CardUI/B/FR/C0ZKVYCJ0NM1WECI9HYS0G
+/Game/__ExternalActors__/CardUI/5/3K/GPOKLWJOJQQQMLS4FBC0O7
+/Game/__ExternalActors__/CardUI/B/Y7/T3FUWPD02LLOPSC969CQAB
+/Game/__ExternalActors__/CardUI/B/J8/522IV9VV5KZOWNSAJXY7YB
+/Game/__ExternalActors__/CardUI/6/7P/MWYZAXZDPDQUG2Z4HWT8W4
+/Game/__ExternalActors__/CardUI/8/V9/LXDW2VHY3HMORHUX39NC9E
+/Game/__ExternalActors__/CardUI/6/TC/US2TEZSDZ5YLBZZGROSZKP
+/Game/__ExternalActors__/CardUI/0/ZG/XGUH4U0QLNNWJ7LZABHE75
+/Game/__ExternalActors__/CardUI/6/YP/ROMY5F6X7TGQV2I91LQF2Q
+/Game/__ExternalActors__/CardUI/3/VW/OMN30OKK7I5Q3KRR1ZF338
+[2024.05.23-17.30.17:571][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-17.30.17:571][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI_HLOD0_Instancing" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI_HLOD0_Instancing.uasset" SILENT=true
+[2024.05.23-17.30.17:572][528]LogSavePackage: Moving output files for package: /Game/CardUI_HLOD0_Instancing
+[2024.05.23-17.30.17:572][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/CardUI_HLOD0_InstancingE399E5B648982417A660698150D3B662.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI_HLOD0_Instancing.uasset'
+[2024.05.23-17.30.17:574][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/3/58/S7VLBGDDJL0OONKGDBQF0I
+[2024.05.23-17.30.17:574][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/S7VLBGDDJL0OONKGDBQF0I4342DC7C4A1F4E93FD05FB943DA072F3.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/3/58/S7VLBGDDJL0OONKGDBQF0I.uasset'
+[2024.05.23-17.30.17:575][528]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/CardUI/E/RV/0IIDB2AFLQL20VYZ387SR2
+[2024.05.23-17.30.17:575][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/0IIDB2AFLQL20VYZ387SR2838A82E04E773F4E4795C5BE3D5136BC.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalObjects__/CardUI/E/RV/0IIDB2AFLQL20VYZ387SR2.uasset'
+[2024.05.23-17.30.17:577][528]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/CardUI/C/WG/06GFYM0QBQ7VCJW3HTN4Y3
+[2024.05.23-17.30.17:577][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/06GFYM0QBQ7VCJW3HTN4Y3B336F6C044FC490B46B89A9AF4FC6DD3.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalObjects__/CardUI/C/WG/06GFYM0QBQ7VCJW3HTN4Y3.uasset'
+[2024.05.23-17.30.17:579][528]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/CardUI/9/3I/2ET70P6YAMQG9HT1RXZP1E
+[2024.05.23-17.30.17:579][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/2ET70P6YAMQG9HT1RXZP1E8A30088F4A560F4FFAB667965B34F231.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalObjects__/CardUI/9/3I/2ET70P6YAMQG9HT1RXZP1E.uasset'
+[2024.05.23-17.30.17:580][528]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/CardUI/3/6C/AYM6PDDIV1YH7ZY1RP4YYD
+[2024.05.23-17.30.17:580][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/AYM6PDDIV1YH7ZY1RP4YYDD7C01A1D43C02466444B059BC1D129E5.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalObjects__/CardUI/3/6C/AYM6PDDIV1YH7ZY1RP4YYD.uasset'
+[2024.05.23-17.30.17:582][528]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/CardUI/8/G2/8YSP50JR7PRHCHNB63MOU0
+[2024.05.23-17.30.17:582][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/8YSP50JR7PRHCHNB63MOU01602DB824C7320B7A4DAD4B94C42186D.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalObjects__/CardUI/8/G2/8YSP50JR7PRHCHNB63MOU0.uasset'
+[2024.05.23-17.30.17:583][528]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/CardUI/B/58/3SJ964K1WR4Y35GQQJX3Y2
+[2024.05.23-17.30.17:583][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/3SJ964K1WR4Y35GQQJX3Y284BAF1CB4FE20E1EA75536AAACD26FF3.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalObjects__/CardUI/B/58/3SJ964K1WR4Y35GQQJX3Y2.uasset'
+[2024.05.23-17.30.17:592][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/4/YK/8WGRE2MUTA1JPD1QW0ZQJP
+[2024.05.23-17.30.17:592][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/8WGRE2MUTA1JPD1QW0ZQJPF2EF24E24218A0CF8DD93D8F5257D5D1.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/4/YK/8WGRE2MUTA1JPD1QW0ZQJP.uasset'
+[2024.05.23-17.30.17:594][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/1/O1/SSUMGD4ZT2ILR1AHCKG3EK
+[2024.05.23-17.30.17:594][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/SSUMGD4ZT2ILR1AHCKG3EK25297695480A48F03699AF9F56E34B41.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/1/O1/SSUMGD4ZT2ILR1AHCKG3EK.uasset'
+[2024.05.23-17.30.17:595][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/5/NQ/MZFJGHIVKEVRQ7AZC6O8ZZ
+[2024.05.23-17.30.17:595][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/MZFJGHIVKEVRQ7AZC6O8ZZ3B788D104F3163C5212EB18394BEB2F2.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/5/NQ/MZFJGHIVKEVRQ7AZC6O8ZZ.uasset'
+[2024.05.23-17.30.17:597][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/7/OW/2N1DXNB0YWZXPJBZ7A1NRH
+[2024.05.23-17.30.17:597][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/2N1DXNB0YWZXPJBZ7A1NRH9A917E854D9321B616280A8904D260D4.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/7/OW/2N1DXNB0YWZXPJBZ7A1NRH.uasset'
+[2024.05.23-17.30.17:599][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/A/HL/DH45V9NU4BVXLAP6GS6RXU
+[2024.05.23-17.30.17:599][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/DH45V9NU4BVXLAP6GS6RXU7126A01F4B59BFE2E0CFD6A9880D35C4.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/A/HL/DH45V9NU4BVXLAP6GS6RXU.uasset'
+[2024.05.23-17.30.17:601][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/9/AX/E2JWFCESQ0X3INH5F2JKIA
+[2024.05.23-17.30.17:601][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/E2JWFCESQ0X3INH5F2JKIAFFE4309448CFD3E89BBDC3A786FC6106.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/9/AX/E2JWFCESQ0X3INH5F2JKIA.uasset'
+[2024.05.23-17.30.17:603][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/B/J9/O3UYBKSH27SVFLEUAQ53TC
+[2024.05.23-17.30.17:603][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/O3UYBKSH27SVFLEUAQ53TCD9CF98B94D85D9E2A2B8A1AB42CAAE93.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/B/J9/O3UYBKSH27SVFLEUAQ53TC.uasset'
+[2024.05.23-17.30.17:605][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/7/IA/3IZVH39GYAJH97NW7IR02B
+[2024.05.23-17.30.17:605][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/3IZVH39GYAJH97NW7IR02B5765F9BA404E1DDD17B3D28D7DCA3EF1.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/7/IA/3IZVH39GYAJH97NW7IR02B.uasset'
+[2024.05.23-17.30.17:607][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/6/BI/WBRG5HXZPX5P7ZK5JAIJTH
+[2024.05.23-17.30.17:607][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/WBRG5HXZPX5P7ZK5JAIJTH092F4300403D0F51B1C5D1B76457E546.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/6/BI/WBRG5HXZPX5P7ZK5JAIJTH.uasset'
+[2024.05.23-17.30.17:615][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/E/TM/0HBW1AP8I5CEPA55Q8SFWI
+[2024.05.23-17.30.17:615][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/0HBW1AP8I5CEPA55Q8SFWIB59188A14BEE221C56940DBA9F2773A8.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/E/TM/0HBW1AP8I5CEPA55Q8SFWI.uasset'
+[2024.05.23-17.30.17:623][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/2/E9/949UDJ2MAWIF5KSU822O2K
+[2024.05.23-17.30.17:623][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/949UDJ2MAWIF5KSU822O2KC902EECE44C4166037420B950E8DBAA3.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/2/E9/949UDJ2MAWIF5KSU822O2K.uasset'
+[2024.05.23-17.30.17:629][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/0/5I/7W6CSYLR63L9GKD8IFAFOI
+[2024.05.23-17.30.17:629][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/7W6CSYLR63L9GKD8IFAFOI4F839B704F0E3F1EE0B7108B5DF748C4.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/0/5I/7W6CSYLR63L9GKD8IFAFOI.uasset'
+[2024.05.23-17.30.17:637][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/D/SM/YFZMJ8P314PCJTN6ID0PYG
+[2024.05.23-17.30.17:637][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/YFZMJ8P314PCJTN6ID0PYG052A851949FBF0BA1D3DDD808AE1A364.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/D/SM/YFZMJ8P314PCJTN6ID0PYG.uasset'
+[2024.05.23-17.30.17:643][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/7/03/6LC783J8NVP6VYES0FKF9B
+[2024.05.23-17.30.17:643][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/6LC783J8NVP6VYES0FKF9B2C89482347B569DDC55E21937C85596B.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/7/03/6LC783J8NVP6VYES0FKF9B.uasset'
+[2024.05.23-17.30.17:649][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/5/FV/JILHQXD7YEAH76KK9BXH8H
+[2024.05.23-17.30.17:649][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/JILHQXD7YEAH76KK9BXH8HC97D240B4701BABD66F32FBA3D2BE4D9.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/5/FV/JILHQXD7YEAH76KK9BXH8H.uasset'
+[2024.05.23-17.30.17:657][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/9/NJ/SE6O2VE6U6WF7PBZ91FFYU
+[2024.05.23-17.30.17:657][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/SE6O2VE6U6WF7PBZ91FFYUF2A56593431EB413557CE9A17FDD3540.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/9/NJ/SE6O2VE6U6WF7PBZ91FFYU.uasset'
+[2024.05.23-17.30.17:663][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/E/6W/KXYZMTPTOFG6Q6SH7SRH0A
+[2024.05.23-17.30.17:663][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/KXYZMTPTOFG6Q6SH7SRH0ACCD2AF194B15036D2988F186C1E7D825.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/E/6W/KXYZMTPTOFG6Q6SH7SRH0A.uasset'
+[2024.05.23-17.30.17:671][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/0/UI/G4G43BARD2IKUAU2D546SY
+[2024.05.23-17.30.17:671][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/G4G43BARD2IKUAU2D546SY9264B8904621F970EA346798A5C45428.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/0/UI/G4G43BARD2IKUAU2D546SY.uasset'
+[2024.05.23-17.30.17:679][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/B/67/IGB325MBO8BJ5HE2WW5OJD
+[2024.05.23-17.30.17:679][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/IGB325MBO8BJ5HE2WW5OJD0A21EF0947C2F8A7646DABA600292E33.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/B/67/IGB325MBO8BJ5HE2WW5OJD.uasset'
+[2024.05.23-17.30.17:685][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/7/PU/US5L4MYZPLIDD0M5TUZSQW
+[2024.05.23-17.30.17:685][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/US5L4MYZPLIDD0M5TUZSQW74DAFC5C4A2DF5CAF9B426A6E29EAAC7.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/7/PU/US5L4MYZPLIDD0M5TUZSQW.uasset'
+[2024.05.23-17.30.17:693][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/6/BZ/3FXAU6O5KHE7XS97C5NUSX
+[2024.05.23-17.30.17:693][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/3FXAU6O5KHE7XS97C5NUSXFEB9B5C04FDA653E2538CE94DBCA76A4.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/6/BZ/3FXAU6O5KHE7XS97C5NUSX.uasset'
+[2024.05.23-17.30.17:700][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/0/B9/C0301D6JRJUZ0TG08E4SRM
+[2024.05.23-17.30.17:700][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/C0301D6JRJUZ0TG08E4SRMACDFB28F479D58215C0FF5874004E6DE.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/0/B9/C0301D6JRJUZ0TG08E4SRM.uasset'
+[2024.05.23-17.30.17:708][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/4/ZL/D40JWYELHZ47R13M7EKK3P
+[2024.05.23-17.30.17:708][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/D40JWYELHZ47R13M7EKK3P958B24834238669391FEF897D4DB69A0.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/4/ZL/D40JWYELHZ47R13M7EKK3P.uasset'
+[2024.05.23-17.30.17:714][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/8/6Y/2K98Z6VTSIVBXQN0L9AQVM
+[2024.05.23-17.30.17:714][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/2K98Z6VTSIVBXQN0L9AQVM78E5C8544BE03B12B06587B6719764B6.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/8/6Y/2K98Z6VTSIVBXQN0L9AQVM.uasset'
+[2024.05.23-17.30.17:722][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/8/QE/L7LU6RRAG93TQGUA2OAAU3
+[2024.05.23-17.30.17:722][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/L7LU6RRAG93TQGUA2OAAU37347A0594C811DA6850AF2B67315113F.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/8/QE/L7LU6RRAG93TQGUA2OAAU3.uasset'
+[2024.05.23-17.30.17:730][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/4/58/UWIQQJO65EL1AK15KL37UL
+[2024.05.23-17.30.17:730][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/UWIQQJO65EL1AK15KL37UL07A8456B43E96E364E6F059A88236D06.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/4/58/UWIQQJO65EL1AK15KL37UL.uasset'
+[2024.05.23-17.30.17:737][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/8/V7/354L2ZD1J598P9NOGX94XG
+[2024.05.23-17.30.17:737][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/354L2ZD1J598P9NOGX94XGD1993BCA4308319382BE48B72E4FC2F4.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/8/V7/354L2ZD1J598P9NOGX94XG.uasset'
+[2024.05.23-17.30.17:744][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/0/FU/BN6B5M2FOW30HTQLXCN9J3
+[2024.05.23-17.30.17:744][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/BN6B5M2FOW30HTQLXCN9J3C76DA6944DB6B0C64C00A8B94FA75EF3.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/0/FU/BN6B5M2FOW30HTQLXCN9J3.uasset'
+[2024.05.23-17.30.17:751][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/6/3L/66BLZ5OSGJ2Z6JQ33BNWG6
+[2024.05.23-17.30.17:751][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/66BLZ5OSGJ2Z6JQ33BNWG6BA8F1BC84B6C4ECF30DFB5A8D50A6229.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/6/3L/66BLZ5OSGJ2Z6JQ33BNWG6.uasset'
+[2024.05.23-17.30.17:758][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/6/6Z/RLZ485BJI2P3C8IWZ6ZR4A
+[2024.05.23-17.30.17:758][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/RLZ485BJI2P3C8IWZ6ZR4A55DDE56347AE4E5B1F1260A3ADA34001.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/6/6Z/RLZ485BJI2P3C8IWZ6ZR4A.uasset'
+[2024.05.23-17.30.17:765][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/5/89/OY84NLV6LV4FYIYEQHOTKI
+[2024.05.23-17.30.17:765][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/OY84NLV6LV4FYIYEQHOTKID4DFC6544A74E0D08866B7A2564ADFC1.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/5/89/OY84NLV6LV4FYIYEQHOTKI.uasset'
+[2024.05.23-17.30.17:772][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/A/U2/TCQ5T5GEYLEO82REFHSVK6
+[2024.05.23-17.30.17:772][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/TCQ5T5GEYLEO82REFHSVK6D4B10C7B4E84A774CAB4658EBC5C3C2A.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/A/U2/TCQ5T5GEYLEO82REFHSVK6.uasset'
+[2024.05.23-17.30.17:779][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/0/VQ/93BI91N8WKFN75D5JHJPK1
+[2024.05.23-17.30.17:779][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/93BI91N8WKFN75D5JHJPK1EAF2032F4B7EA2610F2FD19991F6AD5E.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/0/VQ/93BI91N8WKFN75D5JHJPK1.uasset'
+[2024.05.23-17.30.17:788][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/7/SP/ZBJYQCWP51E1Z837YB7EVK
+[2024.05.23-17.30.17:788][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/ZBJYQCWP51E1Z837YB7EVK10E6B0A94D054702C2228EB2DFAA6541.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/7/SP/ZBJYQCWP51E1Z837YB7EVK.uasset'
+[2024.05.23-17.30.17:796][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/2/1P/ICNX4PVC3ZTMF8PH7Q5GM0
+[2024.05.23-17.30.17:796][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/ICNX4PVC3ZTMF8PH7Q5GM09C1EB015423741317ABA3B8F59EC74B6.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/2/1P/ICNX4PVC3ZTMF8PH7Q5GM0.uasset'
+[2024.05.23-17.30.17:804][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/E/8E/E9IWRJTK4CU579WWQ5NH0X
+[2024.05.23-17.30.17:804][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/E9IWRJTK4CU579WWQ5NH0XC6B6314747232F4A2945A9A911999B14.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/E/8E/E9IWRJTK4CU579WWQ5NH0X.uasset'
+[2024.05.23-17.30.17:812][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/A/JD/RH4CM35NKYAHO270EH0YIB
+[2024.05.23-17.30.17:812][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/RH4CM35NKYAHO270EH0YIB0E38AC9048AD218689D632906747157D.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/A/JD/RH4CM35NKYAHO270EH0YIB.uasset'
+[2024.05.23-17.30.17:819][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/3/67/OOOWJA5FVA5EZOGSJD8HGZ
+[2024.05.23-17.30.17:819][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/OOOWJA5FVA5EZOGSJD8HGZBA6F349C4D87084A1C894798E4659F54.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/3/67/OOOWJA5FVA5EZOGSJD8HGZ.uasset'
+[2024.05.23-17.30.17:826][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/8/R0/QKTMDK6QVYRLJ9U6DDZDMK
+[2024.05.23-17.30.17:826][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/QKTMDK6QVYRLJ9U6DDZDMKB8FA25BC408BEF110AE387B2349502FA.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/8/R0/QKTMDK6QVYRLJ9U6DDZDMK.uasset'
+[2024.05.23-17.30.17:833][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/6/8V/FQW32US0AQPIKNINIYWI9Q
+[2024.05.23-17.30.17:833][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/FQW32US0AQPIKNINIYWI9QB3C468884253E0F1437A36B31CAB1A41.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/6/8V/FQW32US0AQPIKNINIYWI9Q.uasset'
+[2024.05.23-17.30.17:841][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/E/1L/0YMBNTMNVWM1Z7SL75AJWZ
+[2024.05.23-17.30.17:841][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/0YMBNTMNVWM1Z7SL75AJWZE746E16B493611A10C9F2CA2A6770EB1.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/E/1L/0YMBNTMNVWM1Z7SL75AJWZ.uasset'
+[2024.05.23-17.30.17:850][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/2/WE/MWWI473ZLLPO9LGIM8G4VG
+[2024.05.23-17.30.17:850][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/MWWI473ZLLPO9LGIM8G4VG659AC2024CC4DEEE7363269A6594D92F.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/2/WE/MWWI473ZLLPO9LGIM8G4VG.uasset'
+[2024.05.23-17.30.17:856][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/D/N9/W5TLKF4R549SLEQQRZ74SU
+[2024.05.23-17.30.17:856][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W5TLKF4R549SLEQQRZ74SU687881724F6EE3927EACF4A08ADA0D4E.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/D/N9/W5TLKF4R549SLEQQRZ74SU.uasset'
+[2024.05.23-17.30.17:864][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/5/0Y/ME7JQ98TUM4ZGJY6TT36J7
+[2024.05.23-17.30.17:864][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/ME7JQ98TUM4ZGJY6TT36J709911C494DF3243764AB37B5616C5B59.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/5/0Y/ME7JQ98TUM4ZGJY6TT36J7.uasset'
+[2024.05.23-17.30.17:872][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/E/24/BSX0L645DQXDJTNDHHZZNU
+[2024.05.23-17.30.17:872][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/BSX0L645DQXDJTNDHHZZNU161797794AD674697CA3499B3698128D.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/E/24/BSX0L645DQXDJTNDHHZZNU.uasset'
+[2024.05.23-17.30.17:879][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/B/VO/JPV7YHH9MC6AMZC9WLND2L
+[2024.05.23-17.30.17:879][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/JPV7YHH9MC6AMZC9WLND2L45E9E89F46AD66DB494D03B04E6337E3.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/B/VO/JPV7YHH9MC6AMZC9WLND2L.uasset'
+[2024.05.23-17.30.17:886][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/4/VQ/88ZDBG36F2JWGTWHZC76HQ
+[2024.05.23-17.30.17:886][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/88ZDBG36F2JWGTWHZC76HQE47E55D942B3D10A5ACC4991DB3B3E7E.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/4/VQ/88ZDBG36F2JWGTWHZC76HQ.uasset'
+[2024.05.23-17.30.17:894][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/5/MD/WT4AKOZXJE0CGE79IV8MAL
+[2024.05.23-17.30.17:894][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/WT4AKOZXJE0CGE79IV8MAL45CCB221421E55F9934AA682D3F30EA6.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/5/MD/WT4AKOZXJE0CGE79IV8MAL.uasset'
+[2024.05.23-17.30.17:901][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/6/2P/FC34OPINSMVS2YRBDMGR5I
+[2024.05.23-17.30.17:901][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/FC34OPINSMVS2YRBDMGR5I83048E784FC46DC554358F9BE7FED7F1.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/6/2P/FC34OPINSMVS2YRBDMGR5I.uasset'
+[2024.05.23-17.30.17:908][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/7/E1/V1HBD491VST9ILIM2FH4ZD
+[2024.05.23-17.30.17:908][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/V1HBD491VST9ILIM2FH4ZD89A2003447ABC0E5A2D37C96B360D21A.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/7/E1/V1HBD491VST9ILIM2FH4ZD.uasset'
+[2024.05.23-17.30.17:916][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/D/4J/3ZUUZSA3QX016KZ5GN9E80
+[2024.05.23-17.30.17:916][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/3ZUUZSA3QX016KZ5GN9E804DF035EE402C1066B96AC1818D3231EC.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/D/4J/3ZUUZSA3QX016KZ5GN9E80.uasset'
+[2024.05.23-17.30.17:922][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/4/F5/NK0E487LMV2PBZ3XW8HZUF
+[2024.05.23-17.30.17:922][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/NK0E487LMV2PBZ3XW8HZUFA67079274F996B9F446D5D957ADB5357.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/4/F5/NK0E487LMV2PBZ3XW8HZUF.uasset'
+[2024.05.23-17.30.17:930][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/9/8A/4YF0TZW5GM61LTPOQ4AMX0
+[2024.05.23-17.30.17:930][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/4YF0TZW5GM61LTPOQ4AMX05AFE69094EA526F534DF36B8E25BBBB9.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/9/8A/4YF0TZW5GM61LTPOQ4AMX0.uasset'
+[2024.05.23-17.30.17:936][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/5/6W/9702L558ECLWB6A6AFQP7U
+[2024.05.23-17.30.17:937][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/9702L558ECLWB6A6AFQP7UE4DA0DBB421242377EAD3EACB09747DE.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/5/6W/9702L558ECLWB6A6AFQP7U.uasset'
+[2024.05.23-17.30.17:944][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/2/CE/GOROO5GFCIBCNQDVTOI58F
+[2024.05.23-17.30.17:944][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/GOROO5GFCIBCNQDVTOI58F545E7B0649184E3B2D2936B274B6617D.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/2/CE/GOROO5GFCIBCNQDVTOI58F.uasset'
+[2024.05.23-17.30.17:951][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/5/X3/ANT9INSXFSE8VIVOYXG1IT
+[2024.05.23-17.30.17:951][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/ANT9INSXFSE8VIVOYXG1IT6580251740EFE97825EB36A7B0C2D0E8.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/5/X3/ANT9INSXFSE8VIVOYXG1IT.uasset'
+[2024.05.23-17.30.17:958][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/E/AC/WRH54BY1JH5GV0J3IQ3EE6
+[2024.05.23-17.30.17:958][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/WRH54BY1JH5GV0J3IQ3EE63D0E715D42AB948E436CCB8BD00AD860.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/E/AC/WRH54BY1JH5GV0J3IQ3EE6.uasset'
+[2024.05.23-17.30.17:965][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/A/YO/R9ES5UFTCFYW78K0L722QT
+[2024.05.23-17.30.17:965][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/R9ES5UFTCFYW78K0L722QT7D37BE33431D35E8239610A7557F5CF9.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/A/YO/R9ES5UFTCFYW78K0L722QT.uasset'
+[2024.05.23-17.30.17:972][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/1/IF/QVSH0EKTK7AQU6V4ERJEQI
+[2024.05.23-17.30.17:972][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/QVSH0EKTK7AQU6V4ERJEQI18C7B4A347457EDAC94EEBBE19EBEB38.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/1/IF/QVSH0EKTK7AQU6V4ERJEQI.uasset'
+[2024.05.23-17.30.17:979][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/E/5T/ZVA9JBCSSCVW6XHUY7KAQJ
+[2024.05.23-17.30.17:979][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/ZVA9JBCSSCVW6XHUY7KAQJC6C0EB714B34970FCC2E93BC816A1079.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/E/5T/ZVA9JBCSSCVW6XHUY7KAQJ.uasset'
+[2024.05.23-17.30.17:988][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/5/UF/DFM4R6XLRNSV1Y08D7KAVX
+[2024.05.23-17.30.17:988][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/DFM4R6XLRNSV1Y08D7KAVX5431EC0C4B9A1F73EDEB8C88ECA42D92.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/5/UF/DFM4R6XLRNSV1Y08D7KAVX.uasset'
+[2024.05.23-17.30.17:996][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/4/K7/KQXZDL2F4Q42GVW02IUKZM
+[2024.05.23-17.30.17:996][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/KQXZDL2F4Q42GVW02IUKZMC86C437646374AA8120F7A988A648C7C.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/4/K7/KQXZDL2F4Q42GVW02IUKZM.uasset'
+[2024.05.23-17.30.18:005][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/9/KX/VA7LT9SCLJA6W7KZVUGFZ7
+[2024.05.23-17.30.18:005][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/VA7LT9SCLJA6W7KZVUGFZ7114F97B14566C75E09925D9421BA32B7.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/9/KX/VA7LT9SCLJA6W7KZVUGFZ7.uasset'
+[2024.05.23-17.30.18:013][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/6/E7/II8JKH4W3AFLAIA78UD5M7
+[2024.05.23-17.30.18:013][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/II8JKH4W3AFLAIA78UD5M7AF991D514B5C2D5905D37696562422BD.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/6/E7/II8JKH4W3AFLAIA78UD5M7.uasset'
+[2024.05.23-17.30.18:020][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/2/PC/MZEWU2W1ISPBCLA16BH3RK
+[2024.05.23-17.30.18:020][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/MZEWU2W1ISPBCLA16BH3RK2D5DC77F49D5139C4193C89A8DB9CAD0.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/2/PC/MZEWU2W1ISPBCLA16BH3RK.uasset'
+[2024.05.23-17.30.18:027][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/E/NL/IWZXXRA9VKDILGMWHV0Q8L
+[2024.05.23-17.30.18:027][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/IWZXXRA9VKDILGMWHV0Q8L0D6DAC024A98FD91053327B30D66CFED.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/E/NL/IWZXXRA9VKDILGMWHV0Q8L.uasset'
+[2024.05.23-17.30.18:034][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/3/F4/3DBH4BJ43027057613PVDR
+[2024.05.23-17.30.18:034][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/3DBH4BJ43027057613PVDRE7A7E8904A7250ABDC2728A5C1308DE7.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/3/F4/3DBH4BJ43027057613PVDR.uasset'
+[2024.05.23-17.30.18:042][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/C/UT/3ZM4Q20QJ2200COK0BVQMB
+[2024.05.23-17.30.18:042][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/3ZM4Q20QJ2200COK0BVQMBC5ADCEAC48A50EB541767285AEED9724.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/C/UT/3ZM4Q20QJ2200COK0BVQMB.uasset'
+[2024.05.23-17.30.18:050][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/9/JI/6K1PSU3XAWUPL8J1XNPO5T
+[2024.05.23-17.30.18:050][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/6K1PSU3XAWUPL8J1XNPO5T028C97574EBAC61F62A1D6B3196E3FC7.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/9/JI/6K1PSU3XAWUPL8J1XNPO5T.uasset'
+[2024.05.23-17.30.18:057][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/B/0O/LE8I1AI8E6RI4MYDGB7CSV
+[2024.05.23-17.30.18:057][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/LE8I1AI8E6RI4MYDGB7CSV46E21A3742741D08941329BC9C8AD397.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/B/0O/LE8I1AI8E6RI4MYDGB7CSV.uasset'
+[2024.05.23-17.30.18:064][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/8/Z0/RDKQGBBLW3YZP81AEE5X9C
+[2024.05.23-17.30.18:064][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/RDKQGBBLW3YZP81AEE5X9CE673D9B94CFD3A4C99AC2881CE85404A.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/8/Z0/RDKQGBBLW3YZP81AEE5X9C.uasset'
+[2024.05.23-17.30.18:071][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/A/KW/9M9H3IXZLK6YX7XUWCIDY6
+[2024.05.23-17.30.18:071][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/9M9H3IXZLK6YX7XUWCIDY6A3A894494AAD2BDCED153D84482F598A.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/A/KW/9M9H3IXZLK6YX7XUWCIDY6.uasset'
+[2024.05.23-17.30.18:078][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/4/P3/PRRQU84QKVCM5HJSFPTSA4
+[2024.05.23-17.30.18:078][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/PRRQU84QKVCM5HJSFPTSA4FE1C23864A4005DD7738949F303B5706.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/4/P3/PRRQU84QKVCM5HJSFPTSA4.uasset'
+[2024.05.23-17.30.18:084][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/9/88/3LTICJD3UMH3BGT18CQKSI
+[2024.05.23-17.30.18:084][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/3LTICJD3UMH3BGT18CQKSI622D3EAC4ADFB0C8E1756EB8C302EA35.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/9/88/3LTICJD3UMH3BGT18CQKSI.uasset'
+[2024.05.23-17.30.18:089][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/E/E0/HCX4UL2ECSQOA0KYZQAV9D
+[2024.05.23-17.30.18:089][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/HCX4UL2ECSQOA0KYZQAV9D5C8984184BF338DB21E398BDDE579E76.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/E/E0/HCX4UL2ECSQOA0KYZQAV9D.uasset'
+[2024.05.23-17.30.18:093][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/0/SX/LHHEKXJEV903KFW6O9NLK1
+[2024.05.23-17.30.18:093][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/LHHEKXJEV903KFW6O9NLK1AC98314A4D2A0F2BBCEB25A0CCE0D90E.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/0/SX/LHHEKXJEV903KFW6O9NLK1.uasset'
+[2024.05.23-17.30.18:102][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/1/M4/G0LYHEKV5IKS6SNQG23GDF
+[2024.05.23-17.30.18:102][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/G0LYHEKV5IKS6SNQG23GDF16C8CB4E4B8D1BFD0A50B38683363966.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/1/M4/G0LYHEKV5IKS6SNQG23GDF.uasset'
+[2024.05.23-17.30.18:107][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/1/KP/CRK6AUD0RE97WKX2I92XQS
+[2024.05.23-17.30.18:107][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/CRK6AUD0RE97WKX2I92XQSB3680C7744CFC2D16A9597802CAA7118.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/1/KP/CRK6AUD0RE97WKX2I92XQS.uasset'
+[2024.05.23-17.30.18:111][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/3/PN/QNE7KD21I71512LH237NW1
+[2024.05.23-17.30.18:112][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/QNE7KD21I71512LH237NW10173750E4E8ACCB3FDA223A6B36072A9.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/3/PN/QNE7KD21I71512LH237NW1.uasset'
+[2024.05.23-17.30.18:116][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/9/X4/MCP9TXQDKSBD61US4CMFWH
+[2024.05.23-17.30.18:116][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/MCP9TXQDKSBD61US4CMFWH890D77C642336161A0169BAA3F506FF4.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/9/X4/MCP9TXQDKSBD61US4CMFWH.uasset'
+[2024.05.23-17.30.18:120][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/0/83/RA8Y7XANAYJOGCXYKOYETX
+[2024.05.23-17.30.18:120][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/RA8Y7XANAYJOGCXYKOYETXDAF8D4814C8FD1938EF61282E1DFDA4E.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/0/83/RA8Y7XANAYJOGCXYKOYETX.uasset'
+[2024.05.23-17.30.18:126][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/D/WY/SO9Y0KA28FK2ZY2WL6SOUW
+[2024.05.23-17.30.18:126][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/SO9Y0KA28FK2ZY2WL6SOUWECDDB7474196BE729414AE96A47C17D1.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/D/WY/SO9Y0KA28FK2ZY2WL6SOUW.uasset'
+[2024.05.23-17.30.18:130][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/D/XS/RGROY0GL5V4JUKFPSJ7JMM
+[2024.05.23-17.30.18:130][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/RGROY0GL5V4JUKFPSJ7JMM9CFB14C142BD5F7B999803A17A8713FA.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/D/XS/RGROY0GL5V4JUKFPSJ7JMM.uasset'
+[2024.05.23-17.30.18:136][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/5/XO/EFGKVNPE5F2N32JL83DHAR
+[2024.05.23-17.30.18:136][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/EFGKVNPE5F2N32JL83DHAR36C9D0944C83216C401604B7D41CD6E4.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/5/XO/EFGKVNPE5F2N32JL83DHAR.uasset'
+[2024.05.23-17.30.18:142][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/C/WT/XSZMJ3J6A1B2GHX091J61J
+[2024.05.23-17.30.18:142][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/XSZMJ3J6A1B2GHX091J61J2B0C41374F871471F43A858294B1A759.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/C/WT/XSZMJ3J6A1B2GHX091J61J.uasset'
+[2024.05.23-17.30.18:146][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/0/QP/WP1A2HXQN54HJAL6QPWYSP
+[2024.05.23-17.30.18:146][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/WP1A2HXQN54HJAL6QPWYSPA38D28EB464B73154C02F481A0D63EAA.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/0/QP/WP1A2HXQN54HJAL6QPWYSP.uasset'
+[2024.05.23-17.30.18:150][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/A/WY/WGJW5NZRD19EIK2VZW5NFB
+[2024.05.23-17.30.18:150][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/WGJW5NZRD19EIK2VZW5NFB156D4D7A4E430641745ADDBC65D89DA2.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/A/WY/WGJW5NZRD19EIK2VZW5NFB.uasset'
+[2024.05.23-17.30.18:154][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/9/P2/EF7N8CO426RMDOSND7K9PX
+[2024.05.23-17.30.18:154][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/EF7N8CO426RMDOSND7K9PXE6F9656944CC4F54A7A78296B5AA3687.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/9/P2/EF7N8CO426RMDOSND7K9PX.uasset'
+[2024.05.23-17.30.18:158][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/3/T9/ELWK7KRCP1TP719IT2NOX8
+[2024.05.23-17.30.18:158][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/ELWK7KRCP1TP719IT2NOX80AAB68BB48E5C977CFE518A47A28CE16.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/3/T9/ELWK7KRCP1TP719IT2NOX8.uasset'
+[2024.05.23-17.30.18:162][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/6/RM/ZRK70DEN0H1BZ74AICB7KI
+[2024.05.23-17.30.18:162][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/ZRK70DEN0H1BZ74AICB7KI60B7AF78413E46E23664BAB24AEA347C.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/6/RM/ZRK70DEN0H1BZ74AICB7KI.uasset'
+[2024.05.23-17.30.18:167][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/7/BW/BZVMM2CXKWKNUI991WX16M
+[2024.05.23-17.30.18:167][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/BZVMM2CXKWKNUI991WX16M2466467B44445F143228EA9F5549A329.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/7/BW/BZVMM2CXKWKNUI991WX16M.uasset'
+[2024.05.23-17.30.18:171][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/D/57/IOHH0FFAYY551IBYGN3BMH
+[2024.05.23-17.30.18:171][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/IOHH0FFAYY551IBYGN3BMHD1E438394216F26CAF33998163898E20.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/D/57/IOHH0FFAYY551IBYGN3BMH.uasset'
+[2024.05.23-17.30.18:175][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/5/IM/23W9PSKLH0ORF4DHJNKWFL
+[2024.05.23-17.30.18:175][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/23W9PSKLH0ORF4DHJNKWFL9E92027F46BD8E2E639F7B861702C8CD.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/5/IM/23W9PSKLH0ORF4DHJNKWFL.uasset'
+[2024.05.23-17.30.18:180][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/2/RQ/CPIF38C2ZXWRMPOOVRS0RM
+[2024.05.23-17.30.18:180][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/CPIF38C2ZXWRMPOOVRS0RMC9E7962D476214FA9352149793938AD8.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/2/RQ/CPIF38C2ZXWRMPOOVRS0RM.uasset'
+[2024.05.23-17.30.18:188][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/0/LC/A902PI0X3QMNBV3X6VS9Z3
+[2024.05.23-17.30.18:188][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/A902PI0X3QMNBV3X6VS9Z3D627F05F4F5CA861C806918D2AA75DBB.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/0/LC/A902PI0X3QMNBV3X6VS9Z3.uasset'
+[2024.05.23-17.30.18:194][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/C/3R/8PR1Z863GAJH47EO1YZZ1Y
+[2024.05.23-17.30.18:194][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/8PR1Z863GAJH47EO1YZZ1YA4D7E97848778B8F16D6FF913DA0D746.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/C/3R/8PR1Z863GAJH47EO1YZZ1Y.uasset'
+[2024.05.23-17.30.18:199][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/D/20/XNGB93SM3RYLV1UBXZI3PI
+[2024.05.23-17.30.18:199][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/XNGB93SM3RYLV1UBXZI3PI984A3FFA479B50792B87D89C66774F52.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/D/20/XNGB93SM3RYLV1UBXZI3PI.uasset'
+[2024.05.23-17.30.18:203][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/2/10/KPLKP3VTJLHIWCESL1666Q
+[2024.05.23-17.30.18:203][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/KPLKP3VTJLHIWCESL1666Q0B58319045E4B434B22429A2EECB3B10.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/2/10/KPLKP3VTJLHIWCESL1666Q.uasset'
+[2024.05.23-17.30.18:207][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/3/91/PZ5WPVPIGJ4TAZLR8PMKPN
+[2024.05.23-17.30.18:207][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/PZ5WPVPIGJ4TAZLR8PMKPN19948A3E460DADABE78EE3B76CD3FCF3.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/3/91/PZ5WPVPIGJ4TAZLR8PMKPN.uasset'
+[2024.05.23-17.30.18:211][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/8/W7/K2Y99HTGEUQP2MNUWGID05
+[2024.05.23-17.30.18:211][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/K2Y99HTGEUQP2MNUWGID058270D26442405B01BA9395B57879B989.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/8/W7/K2Y99HTGEUQP2MNUWGID05.uasset'
+[2024.05.23-17.30.18:216][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/1/HB/F93IONBGPFMX77UGI9UX6Q
+[2024.05.23-17.30.18:216][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/F93IONBGPFMX77UGI9UX6QC73C97AB4A284F812D01F39A9F4F090A.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/1/HB/F93IONBGPFMX77UGI9UX6Q.uasset'
+[2024.05.23-17.30.18:220][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/9/H2/Z17REWZCAJTOQL78TGWC77
+[2024.05.23-17.30.18:220][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Z17REWZCAJTOQL78TGWC77241FD6AB4782E8F5858AD69A21E21702.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/9/H2/Z17REWZCAJTOQL78TGWC77.uasset'
+[2024.05.23-17.30.18:224][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/4/94/K913TF9D1Z8V4J3HF9UG8J
+[2024.05.23-17.30.18:224][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/K913TF9D1Z8V4J3HF9UG8J0859A2E246AAC6222F458B996B33D7CB.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/4/94/K913TF9D1Z8V4J3HF9UG8J.uasset'
+[2024.05.23-17.30.18:228][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/2/YT/BYQ2MTJAPZYY4MV3F53THB
+[2024.05.23-17.30.18:228][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/BYQ2MTJAPZYY4MV3F53THBD0740B1A47272DD26E3F4582BB74E3AA.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/2/YT/BYQ2MTJAPZYY4MV3F53THB.uasset'
+[2024.05.23-17.30.18:232][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/8/SN/SQQRD2W77J6JEH2NW0MROS
+[2024.05.23-17.30.18:232][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/SQQRD2W77J6JEH2NW0MROSEB5513BA4F3C9D52750075BD43DA8B88.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/8/SN/SQQRD2W77J6JEH2NW0MROS.uasset'
+[2024.05.23-17.30.18:237][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/8/40/86BJOF27372Z33XVMW1B8E
+[2024.05.23-17.30.18:237][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/86BJOF27372Z33XVMW1B8E38892BD5436586F01F9C9582D211FABC.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/8/40/86BJOF27372Z33XVMW1B8E.uasset'
+[2024.05.23-17.30.18:241][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/4/2Z/8XWT4C9LQS057MYG5WZCNQ
+[2024.05.23-17.30.18:241][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/8XWT4C9LQS057MYG5WZCNQ8FC282DA4A4DC741688D2B885C2E3CF7.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/4/2Z/8XWT4C9LQS057MYG5WZCNQ.uasset'
+[2024.05.23-17.30.18:245][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/1/VW/WRM3OR6HYV3F9YXF1BAFNE
+[2024.05.23-17.30.18:245][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/WRM3OR6HYV3F9YXF1BAFNEE8A72B144E56C938CF43FAB77B053677.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/1/VW/WRM3OR6HYV3F9YXF1BAFNE.uasset'
+[2024.05.23-17.30.18:249][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/A/67/WQZSFLJXZSUJHM74AWK8ZF
+[2024.05.23-17.30.18:249][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/WQZSFLJXZSUJHM74AWK8ZF06B8D8C04D762937B5084E84AD50BBD4.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/A/67/WQZSFLJXZSUJHM74AWK8ZF.uasset'
+[2024.05.23-17.30.18:256][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/8/BS/OXDE8H66G7P1Q55POZMGRB
+[2024.05.23-17.30.18:256][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/OXDE8H66G7P1Q55POZMGRBBBFD1EAF49F26D4223CBF098168C0992.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/8/BS/OXDE8H66G7P1Q55POZMGRB.uasset'
+[2024.05.23-17.30.18:262][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/A/EB/KFT86Q44YJ0JKUAMA0YUIJ
+[2024.05.23-17.30.18:262][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/KFT86Q44YJ0JKUAMA0YUIJ2F0AE1774AB46CD85473E791D7F8E37C.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/A/EB/KFT86Q44YJ0JKUAMA0YUIJ.uasset'
+[2024.05.23-17.30.18:268][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/5/55/991A4RIS959LNOT575Y69N
+[2024.05.23-17.30.18:268][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/991A4RIS959LNOT575Y69NA63C630543305169EBCE0682D464C5CD.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/5/55/991A4RIS959LNOT575Y69N.uasset'
+[2024.05.23-17.30.18:272][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/B/FR/C0ZKVYCJ0NM1WECI9HYS0G
+[2024.05.23-17.30.18:272][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/C0ZKVYCJ0NM1WECI9HYS0GBE05A5DB41BC71D98895B39A750F17DD.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/B/FR/C0ZKVYCJ0NM1WECI9HYS0G.uasset'
+[2024.05.23-17.30.18:277][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/5/3K/GPOKLWJOJQQQMLS4FBC0O7
+[2024.05.23-17.30.18:277][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/GPOKLWJOJQQQMLS4FBC0O7B4927448432DDC5009EB38B1B89A9384.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/5/3K/GPOKLWJOJQQQMLS4FBC0O7.uasset'
+[2024.05.23-17.30.18:281][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/B/Y7/T3FUWPD02LLOPSC969CQAB
+[2024.05.23-17.30.18:281][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/T3FUWPD02LLOPSC969CQAB59B25B474AFB11D165A01D8B0488820B.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/B/Y7/T3FUWPD02LLOPSC969CQAB.uasset'
+[2024.05.23-17.30.18:286][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/B/J8/522IV9VV5KZOWNSAJXY7YB
+[2024.05.23-17.30.18:286][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/522IV9VV5KZOWNSAJXY7YB1B3201D1498792AAF00963A091B92383.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/B/J8/522IV9VV5KZOWNSAJXY7YB.uasset'
+[2024.05.23-17.30.18:291][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/6/7P/MWYZAXZDPDQUG2Z4HWT8W4
+[2024.05.23-17.30.18:291][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/MWYZAXZDPDQUG2Z4HWT8W49080C6524105034C1F23F98CCCA753E5.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/6/7P/MWYZAXZDPDQUG2Z4HWT8W4.uasset'
+[2024.05.23-17.30.18:295][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/8/V9/LXDW2VHY3HMORHUX39NC9E
+[2024.05.23-17.30.18:295][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/LXDW2VHY3HMORHUX39NC9EDAFB05BF48306D44DDA53CB0B569510F.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/8/V9/LXDW2VHY3HMORHUX39NC9E.uasset'
+[2024.05.23-17.30.18:299][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/6/TC/US2TEZSDZ5YLBZZGROSZKP
+[2024.05.23-17.30.18:299][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/US2TEZSDZ5YLBZZGROSZKP8C7C8011404574B0A046328ADBDF8B9C.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/6/TC/US2TEZSDZ5YLBZZGROSZKP.uasset'
+[2024.05.23-17.30.18:303][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/0/ZG/XGUH4U0QLNNWJ7LZABHE75
+[2024.05.23-17.30.18:303][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/XGUH4U0QLNNWJ7LZABHE75C04C76964048BA28563936B1DAE12FA9.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/0/ZG/XGUH4U0QLNNWJ7LZABHE75.uasset'
+[2024.05.23-17.30.18:308][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/6/YP/ROMY5F6X7TGQV2I91LQF2Q
+[2024.05.23-17.30.18:308][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/ROMY5F6X7TGQV2I91LQF2Q4BAE77704DAD4B19072FD3BB3D1F89B4.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/6/YP/ROMY5F6X7TGQV2I91LQF2Q.uasset'
+[2024.05.23-17.30.18:312][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CardUI/3/VW/OMN30OKK7I5Q3KRR1ZF338
+[2024.05.23-17.30.18:312][528]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/OMN30OKK7I5Q3KRR1ZF338677A836D45F2C219D281B4A7A3260D25.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/__ExternalActors__/CardUI/3/VW/OMN30OKK7I5Q3KRR1ZF338.uasset'
+[2024.05.23-17.30.18:317][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 746 ms (total: 1.42 sec)
+[2024.05.23-17.30.18:326][528]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/CardUI_HLOD0_Instancing
+/Game/__ExternalActors__/CardUI/3/58/S7VLBGDDJL0OONKGDBQF0I
+/Game/__ExternalObjects__/CardUI/E/RV/0IIDB2AFLQL20VYZ387SR2
+/Game/__ExternalObjects__/CardUI/C/WG/06GFYM0QBQ7VCJW3HTN4Y3
+/Game/__ExternalObjects__/CardUI/9/3I/2ET70P6YAMQG9HT1RXZP1E
+/Game/__ExternalObjects__/CardUI/3/6C/AYM6PDDIV1YH7ZY1RP4YYD
+/Game/__ExternalObjects__/CardUI/8/G2/8YSP50JR7PRHCHNB63MOU0
+/Game/__ExternalObjects__/CardUI/B/58/3SJ964K1WR4Y35GQQJX3Y2
+/Game/__ExternalActors__/CardUI/4/YK/8WGRE2MUTA1JPD1QW0ZQJP
+/Game/__ExternalActors__/CardUI/1/O1/SSUMGD4ZT2ILR1AHCKG3EK
+/Game/__ExternalActors__/CardUI/5/NQ/MZFJGHIVKEVRQ7AZC6O8ZZ
+/Game/__ExternalActors__/CardUI/7/OW/2N1DXNB0YWZXPJBZ7A1NRH
+/Game/__ExternalActors__/CardUI/A/HL/DH45V9NU4BVXLAP6GS6RXU
+/Game/__ExternalActors__/CardUI/9/AX/E2JWFCESQ0X3INH5F2JKIA
+/Game/__ExternalActors__/CardUI/B/J9/O3UYBKSH27SVFLEUAQ53TC
+/Game/__ExternalActors__/CardUI/7/IA/3IZVH39GYAJH97NW7IR02B
+/Game/__ExternalActors__/CardUI/6/BI/WBRG5HXZPX5P7ZK5JAIJTH
+/Game/__ExternalActors__/CardUI/E/TM/0HBW1AP8I5CEPA55Q8SFWI
+/Game/__ExternalActors__/CardUI/2/E9/949UDJ2MAWIF5KSU822O2K
+/Game/__ExternalActors__/CardUI/0/5I/7W6CSYLR63L9GKD8IFAFOI
+/Game/__ExternalActors__/CardUI/D/SM/YFZMJ8P314PCJTN6ID0PYG
+/Game/__ExternalActors__/CardUI/7/03/6LC783J8NVP6VYES0FKF9B
+/Game/__ExternalActors__/CardUI/5/FV/JILHQXD7YEAH76KK9BXH8H
+/Game/__ExternalActors__/CardUI/9/NJ/SE6O2VE6U6WF7PBZ91FFYU
+/Game/__ExternalActors__/CardUI/E/6W/KXYZMTPTOFG6Q6SH7SRH0A
+/Game/__ExternalActors__/CardUI/0/UI/G4G43BARD2IKUAU2D546SY
+/Game/__ExternalActors__/CardUI/B/67/IGB325MBO8BJ5HE2WW5OJD
+/Game/__ExternalActors__/CardUI/7/PU/US5L4MYZPLIDD0M5TUZSQW
+/Game/__ExternalActors__/CardUI/6/BZ/3FXAU6O5KHE7XS97C5NUSX
+/Game/__ExternalActors__/CardUI/0/B9/C0301D6JRJUZ0TG08E4SRM
+/Game/__ExternalActors__/CardUI/4/ZL/D40JWYELHZ47R13M7EKK3P
+/Game/__ExternalActors__/CardUI/8/6Y/2K98Z6VTSIVBXQN0L9AQVM
+/Game/__ExternalActors__/CardUI/8/QE/L7LU6RRAG93TQGUA2OAAU3
+/Game/__ExternalActors__/CardUI/4/58/UWIQQJO65EL1AK15KL37UL
+/Game/__ExternalActors__/CardUI/8/V7/354L2ZD1J598P9NOGX94XG
+/Game/__ExternalActors__/CardUI/0/FU/BN6B5M2FOW30HTQLXCN9J3
+/Game/__ExternalActors__/CardUI/6/3L/66BLZ5OSGJ2Z6JQ33BNWG6
+/Game/__ExternalActors__/CardUI/6/6Z/RLZ485BJI2P3C8IWZ6ZR4A
+/Game/__ExternalActors__/CardUI/5/89/OY84NLV6LV4FYIYEQHOTKI
+/Game/__ExternalActors__/CardUI/A/U2/TCQ5T5GEYLEO82REFHSVK6
+/Game/__ExternalActors__/CardUI/0/VQ/93BI91N8WKFN75D5JHJPK1
+/Game/__ExternalActors__/CardUI/7/SP/ZBJYQCWP51E1Z837YB7EVK
+/Game/__ExternalActors__/CardUI/2/1P/ICNX4PVC3ZTMF8PH7Q5GM0
+/Game/__ExternalActors__/CardUI/E/8E/E9IWRJTK4CU579WWQ5NH0X
+/Game/__ExternalActors__/CardUI/A/JD/RH4CM35NKYAHO270EH0YIB
+/Game/__ExternalActors__/CardUI/3/67/OOOWJA5FVA5EZOGSJD8HGZ
+/Game/__ExternalActors__/CardUI/8/R0/QKTMDK6QVYRLJ9U6DDZDMK
+/Game/__ExternalActors__/CardUI/6/8V/FQW32US0AQPIKNINIYWI9Q
+/Game/__ExternalActors__/CardUI/E/1L/0YMBNTMNVWM1Z7SL75AJWZ
+/Game/__ExternalActors__/CardUI/2/WE/MWWI473ZLLPO9LGIM8G4VG
+/Game/__ExternalActors__/CardUI/D/N9/W5TLKF4R549SLEQQRZ74SU
+/Game/__ExternalActors__/CardUI/5/0Y/ME7JQ98TUM4ZGJY6TT36J7
+/Game/__ExternalActors__/CardUI/E/24/BSX0L645DQXDJTNDHHZZNU
+/Game/__ExternalActors__/CardUI/B/VO/JPV7YHH9MC6AMZC9WLND2L
+/Game/__ExternalActors__/CardUI/4/VQ/88ZDBG36F2JWGTWHZC76HQ
+/Game/__ExternalActors__/CardUI/5/MD/WT4AKOZXJE0CGE79IV8MAL
+/Game/__ExternalActors__/CardUI/6/2P/FC34OPINSMVS2YRBDMGR5I
+/Game/__ExternalActors__/CardUI/7/E1/V1HBD491VST9ILIM2FH4ZD
+/Game/__ExternalActors__/CardUI/D/4J/3ZUUZSA3QX016KZ5GN9E80
+/Game/__ExternalActors__/CardUI/4/F5/NK0E487LMV2PBZ3XW8HZUF
+/Game/__ExternalActors__/CardUI/9/8A/4YF0TZW5GM61LTPOQ4AMX0
+/Game/__ExternalActors__/CardUI/5/6W/9702L558ECLWB6A6AFQP7U
+/Game/__ExternalActors__/CardUI/2/CE/GOROO5GFCIBCNQDVTOI58F
+/Game/__ExternalActors__/CardUI/5/X3/ANT9INSXFSE8VIVOYXG1IT
+/Game/__ExternalActors__/CardUI/E/AC/WRH54BY1JH5GV0J3IQ3EE6
+/Game/__ExternalActors__/CardUI/A/YO/R9ES5UFTCFYW78K0L722QT
+/Game/__ExternalActors__/CardUI/1/IF/QVSH0EKTK7AQU6V4ERJEQI
+/Game/__ExternalActors__/CardUI/E/5T/ZVA9JBCSSCVW6XHUY7KAQJ
+/Game/__ExternalActors__/CardUI/5/UF/DFM4R6XLRNSV1Y08D7KAVX
+/Game/__ExternalActors__/CardUI/4/K7/KQXZDL2F4Q42GVW02IUKZM
+/Game/__ExternalActors__/CardUI/9/KX/VA7LT9SCLJA6W7KZVUGFZ7
+/Game/__ExternalActors__/CardUI/6/E7/II8JKH4W3AFLAIA78UD5M7
+/Game/__ExternalActors__/CardUI/2/PC/MZEWU2W1ISPBCLA16BH3RK
+/Game/__ExternalActors__/CardUI/E/NL/IWZXXRA9VKDILGMWHV0Q8L
+/Game/__ExternalActors__/CardUI/3/F4/3DBH4BJ43027057613PVDR
+/Game/__ExternalActors__/CardUI/C/UT/3ZM4Q20QJ2200COK0BVQMB
+/Game/__ExternalActors__/CardUI/9/JI/6K1PSU3XAWUPL8J1XNPO5T
+/Game/__ExternalActors__/CardUI/B/0O/LE8I1AI8E6RI4MYDGB7CSV
+/Game/__ExternalActors__/CardUI/8/Z0/RDKQGBBLW3YZP81AEE5X9C
+/Game/__ExternalActors__/CardUI/A/KW/9M9H3IXZLK6YX7XUWCIDY6
+/Game/__ExternalActors__/CardUI/4/P3/PRRQU84QKVCM5HJSFPTSA4
+/Game/__ExternalActors__/CardUI/9/88/3LTICJD3UMH3BGT18CQKSI
+/Game/__ExternalActors__/CardUI/E/E0/HCX4UL2ECSQOA0KYZQAV9D
+/Game/__ExternalActors__/CardUI/0/SX/LHHEKXJEV903KFW6O9NLK1
+/Game/__ExternalActors__/CardUI/1/M4/G0LYHEKV5IKS6SNQG23GDF
+/Game/__ExternalActors__/CardUI/1/KP/CRK6AUD0RE97WKX2I92XQS
+/Game/__ExternalActors__/CardUI/3/PN/QNE7KD21I71512LH237NW1
+/Game/__ExternalActors__/CardUI/9/X4/MCP9TXQDKSBD61US4CMFWH
+/Game/__ExternalActors__/CardUI/0/83/RA8Y7XANAYJOGCXYKOYETX
+/Game/__ExternalActors__/CardUI/D/WY/SO9Y0KA28FK2ZY2WL6SOUW
+/Game/__ExternalActors__/CardUI/D/XS/RGROY0GL5V4JUKFPSJ7JMM
+/Game/__ExternalActors__/CardUI/5/XO/EFGKVNPE5F2N32JL83DHAR
+/Game/__ExternalActors__/CardUI/C/WT/XSZMJ3J6A1B2GHX091J61J
+/Game/__ExternalActors__/CardUI/0/QP/WP1A2HXQN54HJAL6QPWYSP
+/Game/__ExternalActors__/CardUI/A/WY/WGJW5NZRD19EIK2VZW5NFB
+/Game/__ExternalActors__/CardUI/9/P2/EF7N8CO426RMDOSND7K9PX
+/Game/__ExternalActors__/CardUI/3/T9/ELWK7KRCP1TP719IT2NOX8
+/Game/__ExternalActors__/CardUI/6/RM/ZRK70DEN0H1BZ74AICB7KI
+/Game/__ExternalActors__/CardUI/7/BW/BZVMM2CXKWKNUI991WX16M
+/Game/__ExternalActors__/CardUI/D/57/IOHH0FFAYY551IBYGN3BMH
+/Game/__ExternalActors__/CardUI/5/IM/23W9PSKLH0ORF4DHJNKWFL
+/Game/__ExternalActors__/CardUI/2/RQ/CPIF38C2ZXWRMPOOVRS0RM
+/Game/__ExternalActors__/CardUI/0/LC/A902PI0X3QMNBV3X6VS9Z3
+/Game/__ExternalActors__/CardUI/C/3R/8PR1Z863GAJH47EO1YZZ1Y
+/Game/__ExternalActors__/CardUI/D/20/XNGB93SM3RYLV1UBXZI3PI
+/Game/__ExternalActors__/CardUI/2/10/KPLKP3VTJLHIWCESL1666Q
+/Game/__ExternalActors__/CardUI/3/91/PZ5WPVPIGJ4TAZLR8PMKPN
+/Game/__ExternalActors__/CardUI/8/W7/K2Y99HTGEUQP2MNUWGID05
+/Game/__ExternalActors__/CardUI/1/HB/F93IONBGPFMX77UGI9UX6Q
+/Game/__ExternalActors__/CardUI/9/H2/Z17REWZCAJTOQL78TGWC77
+/Game/__ExternalActors__/CardUI/4/94/K913TF9D1Z8V4J3HF9UG8J
+/Game/__ExternalActors__/CardUI/2/YT/BYQ2MTJAPZYY4MV3F53THB
+/Game/__ExternalActors__/CardUI/8/SN/SQQRD2W77J6JEH2NW0MROS
+/Game/__ExternalActors__/CardUI/8/40/86BJOF27372Z33XVMW1B8E
+/Game/__ExternalActors__/CardUI/4/2Z/8XWT4C9LQS057MYG5WZCNQ
+/Game/__ExternalActors__/CardUI/1/VW/WRM3OR6HYV3F9YXF1BAFNE
+/Game/__ExternalActors__/CardUI/A/67/WQZSFLJXZSUJHM74AWK8ZF
+/Game/__ExternalActors__/CardUI/8/BS/OXDE8H66G7P1Q55POZMGRB
+/Game/__ExternalActors__/CardUI/A/EB/KFT86Q44YJ0JKUAMA0YUIJ
+/Game/__ExternalActors__/CardUI/5/55/991A4RIS959LNOT575Y69N
+/Game/__ExternalActors__/CardUI/B/FR/C0ZKVYCJ0NM1WECI9HYS0G
+/Game/__ExternalActors__/CardUI/5/3K/GPOKLWJOJQQQMLS4FBC0O7
+/Game/__ExternalActors__/CardUI/B/Y7/T3FUWPD02LLOPSC969CQAB
+/Game/__ExternalActors__/CardUI/B/J8/522IV9VV5KZOWNSAJXY7YB
+/Game/__ExternalActors__/CardUI/6/7P/MWYZAXZDPDQUG2Z4HWT8W4
+/Game/__ExternalActors__/CardUI/8/V9/LXDW2VHY3HMORHUX39NC9E
+/Game/__ExternalActors__/CardUI/6/TC/US2TEZSDZ5YLBZZGROSZKP
+/Game/__ExternalActors__/CardUI/0/ZG/XGUH4U0QLNNWJ7LZABHE75
+/Game/__ExternalActors__/CardUI/6/YP/ROMY5F6X7TGQV2I91LQF2Q
+/Game/__ExternalActors__/CardUI/3/VW/OMN30OKK7I5Q3KRR1ZF338
+[2024.05.23-17.30.18:388][528]LogFileHelpers: Saving map 'CardUI' took 1.096
+[2024.05.23-17.30.18:388][528]Cmd: MAP LOAD FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.23-17.30.18:388][528]LightingResults: New page: Lighting Build
+[2024.05.23-17.30.18:388][528]LoadErrors: New page: Loading map: CardUI.umap
+[2024.05.23-17.30.18:437][528]LogWorld: UWorld::CleanupWorld for CardUI, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-17.30.18:437][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-17.30.18:442][528]LogContentBundle: [CardUI(Standalone)] Deleting container.
+[2024.05.23-17.30.18:442][528]MapCheck: New page: Map Check
+[2024.05.23-17.30.18:442][528]LightingResults: New page: Lighting Build
+[2024.05.23-17.30.18:446][528]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.23-17.30.18:469][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.05.23-17.30.18:474][528]LogAudio: Display: Audio Device (ID: 1) registered with world 'CardUI'.
+[2024.05.23-17.30.18:474][528]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-17.30.18:474][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-17.30.18:475][528]LogAIModule: Creating AISystem for world CardUI
+[2024.05.23-17.30.18:475][528]LogWorldPartition: ULevel::OnLevelLoaded(CardUI)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.05.23-17.30.18:475][528]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.23-17.30.18:475][528]LogWorldPartition: UWorldPartition::Initialize : World = CardUI, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.23-17.30.18:662][528]LogContentBundle: [CardUI(Standalone)] Creating new contrainer.
+[2024.05.23-17.30.18:662][528]LogWorldPartition: Display: WorldPartition initialize took 185 ms (total: 391 ms)
+[2024.05.23-17.30.19:051][528]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.23-17.30.19:056][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.23-17.30.19:059][528]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.23-17.30.19:059][528]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,636ms to complete.
+[2024.05.23-17.30.19:089][528]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.World /Game/CardUI.CardUI
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.HLODLayer /Game/CardUI_HLOD0_Instancing.CardUI_HLOD0_Instancing
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/CardUI.CardUI:PersistentLevel.WorldDataLayers
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/CardUI.CardUI:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/CardUI.CardUI:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/CardUI.CardUI:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/CardUI.CardUI:PersistentLevel.ActorFolder_UID_C11A5F59-487C0DB2-AA58CABA-5DEDB377
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/CardUI.CardUI:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/CardUI.CardUI:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionMiniMap /Game/CardUI.CardUI:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/CardUI.CardUI:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/CardUI.CardUI:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.SkyAtmosphere /Game/CardUI.CardUI:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/CardUI.CardUI:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/CardUI.CardUI:PersistentLevel.PlayerStart_UAID_F02F74551BF5599B01_1153002503
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.ExponentialHeightFog /Game/CardUI.CardUI:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Engine.VolumetricCloud /Game/CardUI.CardUI:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/CardUI.CardUI:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0
+[2024.05.23-17.30.19:089][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
+[2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
+[2024.05.23-17.30.19:327][529]LogAutomationController: Ignoring very large delta of 25.33 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
