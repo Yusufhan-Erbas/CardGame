@@ -1413,3 +1413,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.23-15.49.30:229][222]LogSlate: Window 'Message Log' being destroyed
 [2024.05.23-15.49.30:233][222]LogSlate: Window 'Message Log' being destroyed
 [2024.05.23-15.51.18:962][956]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.072 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
+[2024.05.23-16.51.19:938][755]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.048 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
