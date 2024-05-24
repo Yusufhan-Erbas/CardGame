@@ -2454,3 +2454,143 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.05.24-15.29.38:043][829]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.05.24-15.29.38:050][829]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.05.24-15.29.38:050][829]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-15.32.25:788][884]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.05.24-15.32.25:788][884]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.05.24-15.32.50:127][344]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.063 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2108 files in 3385 folders with total size 412 MiB.
+[2024.05.24-15.34.03:839][767]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.05.24-15.38.00:697][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.24-15.38.00:703][657]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.029
+[2024.05.24-15.38.00:703][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CardUI/W_CardHUD] ([2] browsable assets)...
+[2024.05.24-15.38.00:703][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardUI/W_CardHUD]
+[2024.05.24-15.38.00:708][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CardUI/W_CardHUD_Auto0
+[2024.05.24-15.38.00:708][657]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardHUD_Auto0EF7CBBF7483204AFB847FF93BC80FE56.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Autosaves/Game/CardUI/W_CardHUD_Auto0.uasset'
+[2024.05.24-15.38.00:710][657]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CardUI/W_Card] ([2] browsable assets)...
+[2024.05.24-15.38.00:713][657]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CardUI/W_Card.W_Card]
+[2024.05.24-15.38.00:713][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardUI/W_Card]
+[2024.05.24-15.38.00:729][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CardUI/W_Card_Auto0
+[2024.05.24-15.38.00:729][657]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card_Auto094938E704168FD753B9634970665CBFC.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Autosaves/Game/CardUI/W_Card_Auto0.uasset'
+[2024.05.24-15.38.00:730][657]LogFileHelpers: Auto-saving content packages took 0.027
+[2024.05.24-15.54.19:316][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.24-15.54.19:319][175]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.018
+[2024.05.24-15.54.19:319][175]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CardUI/W_Card] ([2] browsable assets)...
+[2024.05.24-15.54.19:324][175]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CardUI/W_Card.W_Card]
+[2024.05.24-15.54.19:324][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardUI/W_Card]
+[2024.05.24-15.54.19:341][175]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CardUI/W_Card_Auto1
+[2024.05.24-15.54.19:341][175]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card_Auto1DEB930744FBEB981A193C6B0FDB4273A.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Autosaves/Game/CardUI/W_Card_Auto1.uasset'
+[2024.05.24-15.54.19:342][175]LogFileHelpers: Auto-saving content packages took 0.024
+[2024.05.24-15.54.30:819][490]BlueprintLog: New page: Compile W_Card
+[2024.05.24-15.54.30:855][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.24-15.54.31:201][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-15.54.31:263][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.24-15.54.31:279][508]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.24-15.54.31:280][508]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardFE5441924A5B2C7C16D7DB95666CE310.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.24-15.54.31:287][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 4.00 sec)
+[2024.05.24-15.54.31:289][508]AssetCheck: New page: Asset Save: W_Card
+[2024.05.24-15.54.31:289][508]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.24-15.54.57:210][808]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CardUI/BP_CardPlayerController.BP_CardPlayerController
+[2024.05.24-15.54.57:219][808]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-15.54.57:219][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-15.55.16:057][610]LogSlate: Window 'BP_CardPlayerController' being destroyed
+[2024.05.24-15.59.20:590][ 62]BlueprintLog: New page: Compile BP_CardPlayerController
+[2024.05.24-15.59.20:623][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.05.24-15.59.21:268][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-15.59.21:344][ 97]LogSavePackage: Moving output files for package: /Game/CardUI/BP_CardPlayerController
+[2024.05.24-15.59.21:344][ 97]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/BP_CardPlayerControllerC3B850CB46D4D77CB7D6A9AE2C4D8680.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/BP_CardPlayerController.uasset'
+[2024.05.24-15.59.21:351][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 4.08 sec)
+[2024.05.24-15.59.21:353][ 97]AssetCheck: New page: Asset Save: BP_CardPlayerController
+[2024.05.24-15.59.21:353][ 97]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CardUI/BP_CardPlayerController.BP_CardPlayerController
+[2024.05.24-16.00.13:739][302]BlueprintLog: New page: Compile W_Card
+[2024.05.24-16.00.13:774][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.05.24-16.00.14:485][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-16.00.14:551][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.24-16.00.14:567][342]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.24-16.00.14:567][342]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card0C21DA95411222F20D1D5B9B718E95F5.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.24-16.00.14:576][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 4.18 sec)
+[2024.05.24-16.00.14:576][342]AssetCheck: New page: Asset Save: W_Card
+[2024.05.24-16.00.14:576][342]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.24-16.03.41:269][929]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-16.03.41:327][930]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-16.03.52:973][605]LogViewport: Scene viewport resized to 625x443, mode Windowed.
+[2024.05.24-16.03.52:981][605]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.24-16.03.52:982][605]LogViewport: Scene viewport resized to 625x443, mode Windowed.
+[2024.05.24-16.03.53:039][605]LogViewport: Scene viewport resized to 625x444, mode Windowed.
+[2024.05.24-16.03.53:075][605]LogViewport: Scene viewport resized to 1556x955, mode Windowed.
+[2024.05.24-16.03.53:116][606]LogViewport: Scene viewport resized to 1920x1032, mode Windowed.
+[2024.05.24-16.03.56:147][781]LogViewport: Scene viewport resized to 1579x961, mode Windowed.
+[2024.05.24-16.03.56:205][782]LogViewport: Scene viewport resized to 1335x909, mode Windowed.
+[2024.05.24-16.03.56:285][783]LogViewport: Scene viewport resized to 1255x892, mode Windowed.
+[2024.05.24-16.04.05:131][312]LogViewport: Scene viewport resized to 1461x935, mode Windowed.
+[2024.05.24-16.04.05:147][313]LogViewport: Scene viewport resized to 1612x967, mode Windowed.
+[2024.05.24-16.04.05:239][314]LogViewport: Scene viewport resized to 1917x1032, mode Windowed.
+[2024.05.24-16.04.05:277][315]LogViewport: Scene viewport resized to 1920x1032, mode Windowed.
+[2024.05.24-16.04.06:872][409]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.24-16.04.06:878][409]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.24-16.04.06:878][409]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.05.24-16.04.06:961][409]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 82 ms (total: 845 ms)
+[2024.05.24-16.04.06:962][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.24-16.04.06:962][409]PIE: New page: PIE session: Untitled_1 (24 May 2024 22:04:06)
+[2024.05.24-16.04.06:962][409]LogPlayLevel: Display: Creating online subsystem for client :Context_23
+[2024.05.24-16.04.06:964][409]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.05.24-16.04.06:976][410]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.05.24-16.04.06:995][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018671s)
+[2024.05.24-16.04.06:995][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.018746s)
+[2024.05.24-16.04.07:015][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.24-16.04.07:018][410]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-16.04.07:018][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-16.04.07:019][410]LogAIModule: Creating AISystem for world Untitled_1
+[2024.05.24-16.04.07:019][410]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.24-16.04.07:019][410]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.24-16.04.07:019][410]LogWorldPartition: UWorldPartition::Initialize : World = Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.24-16.04.07:020][410]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.24-16.04.07:023][410]LogContentBundle: [Untitled_1(Standalone)] Creating new contrainer.
+[2024.05.24-16.04.07:023][410]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 236 ms)
+[2024.05.24-16.04.07:023][410]LogPlayLevel: PIE: World Init took: (0.004829s)
+[2024.05.24-16.04.07:023][410]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.05.24-16.04.07:023][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.24-16.04.07:023][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.24-16.04.07:023][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.24-16.04.07:023][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.24-16.04.07:023][410]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.24-16.04.07:023][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.24-16.04.07:023][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.24-16.04.07:023][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.24-16.04.07:023][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.24-16.04.07:023][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.24-16.04.07:023][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.24-16.04.07:026][410]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.24-16.04.07:038][410]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (Realtek(R) Audio)
+[2024.05.24-16.04.07:038][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.24-16.04.07:038][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.24-16.04.07:038][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.24-16.04.07:039][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.05.24-16.04.07:039][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.05.24-16.04.07:040][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.05.24-16.04.07:040][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.05.24-16.04.07:040][410]LogInit: FAudioDevice initialized with ID 11.
+[2024.05.24-16.04.07:040][410]LogAudio: Display: Audio Device (ID: 11) registered with world 'Untitled_1'.
+[2024.05.24-16.04.07:040][410]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.05.24-16.04.07:043][410]LogLoad: Game class is 'BP_CardGameMode_C'
+[2024.05.24-16.04.07:045][410]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2024.05.24-19.04.07
+[2024.05.24-16.04.07:045][410]LogWorld: Bringing up level for play took: 0.001391
+[2024.05.24-16.04.07:046][410]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.05.24-16.04.07:046][410]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.05.24-16.04.07:049][410]LogStreaming: Display: FlushAsyncLoading(): 60 QueuedPackages, 0 AsyncPackages
+[2024.05.24-16.04.07:300][410]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.05.24-16.04.07:300][410]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.24-16.04.07:300][410]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.24-16.04.07:300][410]PIE: Server logged in
+[2024.05.24-16.04.07:301][410]PIE: Play in editor total start time 0,424 seconds.
+[2024.05.24-16.04.12:040][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-16.04.12:040][567]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.05.24-16.04.12:060][567]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-16.04.12:060][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-16.04.12:060][567]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.05.24-16.04.12:064][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.24-16.04.12:069][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-16.04.12:089][567]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.24-16.04.12:092][567]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.05.24-16.04.12:092][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.24-16.04.12:094][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.24-16.04.12:098][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-16.04.12:113][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.24-16.04.12:162][568]LogPlayLevel: Display: Destroying online subsystem :Context_23
