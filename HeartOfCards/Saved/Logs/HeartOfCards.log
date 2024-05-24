@@ -2059,3 +2059,122 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
 [2024.05.23-17.30.19:091][528]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/CardUI.CardUI:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
 [2024.05.23-17.30.19:327][529]LogAutomationController: Ignoring very large delta of 25.33 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.23-17.32.25:741][873]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.23-17.32.25:757][873]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.23-17.32.25:765][874]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.23-17.32.29:027][ 69]LogContentBrowser: Attempting asset rename: NewFolder -> CardUI
+[2024.05.23-17.32.29:028][ 69]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.23-17.33.14:146][739]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.05.23-17.33.14:163][739]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.05.23-17.33.14:167][739]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.05.23-17.33.14:195][741]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.05.23-17.33.19:709][ 66]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_Card
+[2024.05.23-17.33.19:731][ 66]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.05.23-17.33.21:230][155]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.23-17.33.21:231][155]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-17.33.21:231][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-17.33.21:237][155]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-17.33.21:237][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-17.33.21:244][155]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.05.23-17.33.21:248][155]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.05.23-17.33.22:124][155]LogSlate: Took 0.000429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.23-17.33.22:133][155]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.05.23-17.33.22:133][155]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.23-17.33.44:792][509]LogSlate: Window 'W_Card' being destroyed
+[2024.05.23-17.36.36:275][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-17.36.36:348][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.23-17.36.36:353][251]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.23-17.36.36:353][251]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card20B8A6254EDB83B11F0AF38225DD815B.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.23-17.36.36:364][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.51 sec)
+[2024.05.23-17.36.36:365][251]AssetCheck: New page: Asset Save: W_Card
+[2024.05.23-17.36.36:365][251]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.23-17.40.15:166][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.23-17.40.15:167][950]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CardUI' took 0.022
+[2024.05.23-17.40.15:168][950]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CardUI/W_Card] ([2] browsable assets)...
+[2024.05.23-17.40.15:171][950]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CardUI/W_Card.W_Card]
+[2024.05.23-17.40.15:171][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardUI/W_Card]
+[2024.05.23-17.40.15:175][950]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CardUI/W_Card_Auto1
+[2024.05.23-17.40.15:175][950]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card_Auto103D8FEDE4A56292D93451DA2293219BD.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Autosaves/Game/CardUI/W_Card_Auto1.uasset'
+[2024.05.23-17.40.15:176][950]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.05.23-17.40.55:437][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-17.40.55:525][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.23-17.40.55:538][662]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.23-17.40.55:538][662]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card8084B1D94C5DBDC0646F289382D402E8.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.23-17.40.55:547][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.62 sec)
+[2024.05.23-17.40.55:548][662]AssetCheck: New page: Asset Save: W_Card
+[2024.05.23-17.40.55:548][662]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.23-17.42.54:336][769]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.23-17.44.52:208][101]LogSlate: Took 0.002463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.05.23-17.47.00:489][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-17.47.00:584][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.23-17.47.00:587][209]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.23-17.47.00:588][209]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardD9C9CB944834F3452CF506916BFC0192.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.23-17.47.00:594][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1.72 sec)
+[2024.05.23-17.47.00:595][209]AssetCheck: New page: Asset Save: W_Card
+[2024.05.23-17.47.00:595][209]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.23-17.47.28:788][830]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.23-17.48.54:094][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-17.48.54:170][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.23-17.48.54:173][255]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.23-17.48.54:174][255]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardBBF02AEC40A14667BE8D8ABD404360FB.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.23-17.48.54:180][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.81 sec)
+[2024.05.23-17.48.54:181][255]AssetCheck: New page: Asset Save: W_Card
+[2024.05.23-17.48.54:181][255]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.23-17.50.27:613][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.23-17.50.27:615][344]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CardUI' took 0.018
+[2024.05.23-17.50.27:615][344]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CardUI/W_Card] ([2] browsable assets)...
+[2024.05.23-17.50.27:618][344]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CardUI/W_Card.W_Card]
+[2024.05.23-17.50.27:618][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardUI/W_Card]
+[2024.05.23-17.50.27:621][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CardUI/W_Card_Auto2
+[2024.05.23-17.50.27:621][344]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card_Auto2CB28061C424C37ED1FBDCD98116E71E7.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Autosaves/Game/CardUI/W_Card_Auto2.uasset'
+[2024.05.23-17.50.27:622][344]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.05.23-17.50.30:011][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-17.50.30:091][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.23-17.50.30:094][485]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.23-17.50.30:094][485]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card1383EC044D868F7788C30EB816CE1DD8.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.23-17.50.30:102][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.90 sec)
+[2024.05.23-17.50.30:103][485]AssetCheck: New page: Asset Save: W_Card
+[2024.05.23-17.50.30:103][485]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.23-17.51.19:949][495]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.058 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
+[2024.05.23-17.52.07:835][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-17.52.07:913][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.23-17.52.07:916][240]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.23-17.52.07:917][240]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card0CF6861149EBCC2851A1A69904D0F91E.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.23-17.52.07:923][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.99 sec)
+[2024.05.23-17.52.07:924][240]AssetCheck: New page: Asset Save: W_Card
+[2024.05.23-17.52.07:924][240]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.23-18.00.27:982][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.23-18.00.27:983][207]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CardUI' took 0.015
+[2024.05.23-18.00.27:984][207]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CardUI/W_Card] ([2] browsable assets)...
+[2024.05.23-18.00.27:987][207]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CardUI/W_Card.W_Card]
+[2024.05.23-18.00.27:987][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardUI/W_Card]
+[2024.05.23-18.00.27:991][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CardUI/W_Card_Auto3
+[2024.05.23-18.00.27:991][207]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card_Auto30136F56649E53003198C18B00EBC5A0C.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Autosaves/Game/CardUI/W_Card_Auto3.uasset'
+[2024.05.23-18.00.27:992][207]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.05.23-18.51.19:942][362]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.051 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
+[2024.05.23-19.51.18:958][158]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.066 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
+[2024.05.23-20.51.19:933][958]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.040 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
+[2024.05.23-21.51.19:943][757]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
+[2024.05.23-22.51.19:941][555]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
+[2024.05.23-23.51.19:946][353]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.051 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
+[2024.05.24-00.51.18:961][148]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.066 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
+[2024.05.24-01.51.19:944][949]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
+[2024.05.24-02.51.19:955][748]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.059 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
+[2024.05.24-03.51.19:949][546]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.051 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1902 files in 3077 folders with total size 405 MiB.
+[2024.05.24-04.00.52:602][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.05.24-04.00.52:603][440]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CardUI' took 0.016
+[2024.05.24-04.00.52:603][440]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CardUI/W_Card] ([2] browsable assets)...
+[2024.05.24-04.00.52:608][440]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CardUI/W_Card.W_Card]
+[2024.05.24-04.00.52:608][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardUI/W_Card]
+[2024.05.24-04.00.52:611][440]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CardUI/W_Card_Auto4
+[2024.05.24-04.00.52:611][440]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card_Auto4A0455602441BD925C86E39AC7B190DD7.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Autosaves/Game/CardUI/W_Card_Auto4.uasset'
+[2024.05.24-04.00.52:612][440]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.05.24-04.05.11:964][837]BlueprintLog: New page: Compile W_Card
+[2024.05.24-04.05.11:989][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.24-04.05.12:590][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-04.05.12:671][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.24-04.05.12:676][861]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.24-04.05.12:677][861]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card6F96292E433D94ACDD645190C516D2B5.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.24-04.05.12:683][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 2.08 sec)
+[2024.05.24-04.05.12:685][861]AssetCheck: New page: Asset Save: W_Card
+[2024.05.24-04.05.12:685][861]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
