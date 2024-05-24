@@ -2594,3 +2594,108 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.05.24-16.04.12:098][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.05.24-16.04.12:113][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
 [2024.05.24-16.04.12:162][568]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.05.24-16.10.11:058][257]LogViewport: Scene viewport resized to 1759x998, mode Windowed.
+[2024.05.24-16.10.11:073][258]LogViewport: Scene viewport resized to 1433x930, mode Windowed.
+[2024.05.24-16.10.11:114][259]LogViewport: Scene viewport resized to 1312x904, mode Windowed.
+[2024.05.24-16.10.11:175][260]LogViewport: Scene viewport resized to 1256x892, mode Windowed.
+[2024.05.24-16.10.11:229][261]LogViewport: Scene viewport resized to 1255x892, mode Windowed.
+[2024.05.24-16.11.21:478][715]LogViewport: Scene viewport resized to 1461x935, mode Windowed.
+[2024.05.24-16.11.21:493][716]LogViewport: Scene viewport resized to 1606x966, mode Windowed.
+[2024.05.24-16.11.21:524][717]LogViewport: Scene viewport resized to 1793x1005, mode Windowed.
+[2024.05.24-16.11.21:553][718]LogViewport: Scene viewport resized to 1884x1024, mode Windowed.
+[2024.05.24-16.11.21:586][719]LogViewport: Scene viewport resized to 1917x1032, mode Windowed.
+[2024.05.24-16.11.21:619][720]LogViewport: Scene viewport resized to 1920x1032, mode Windowed.
+[2024.05.24-16.11.50:321][440]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.24-16.11.50:327][440]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.24-16.11.50:327][440]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.05.24-16.11.50:418][440]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 90 ms (total: 935 ms)
+[2024.05.24-16.11.50:418][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.24-16.11.50:418][440]PIE: New page: PIE session: Untitled_1 (24 May 2024 22:11:50)
+[2024.05.24-16.11.50:418][440]LogPlayLevel: Display: Creating online subsystem for client :Context_24
+[2024.05.24-16.11.50:422][440]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.05.24-16.11.50:431][441]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.05.24-16.11.50:442][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010401s)
+[2024.05.24-16.11.50:442][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.010447s)
+[2024.05.24-16.11.50:457][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.24-16.11.50:459][441]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-16.11.50:460][441]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-16.11.50:460][441]LogAIModule: Creating AISystem for world Untitled_1
+[2024.05.24-16.11.50:461][441]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.24-16.11.50:461][441]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.24-16.11.50:461][441]LogWorldPartition: UWorldPartition::Initialize : World = Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.24-16.11.50:461][441]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.24-16.11.50:463][441]LogContentBundle: [Untitled_1(Standalone)] Creating new contrainer.
+[2024.05.24-16.11.50:463][441]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 239 ms)
+[2024.05.24-16.11.50:463][441]LogPlayLevel: PIE: World Init took: (0.003992s)
+[2024.05.24-16.11.50:463][441]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.05.24-16.11.50:463][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.24-16.11.50:463][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.24-16.11.50:463][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.24-16.11.50:463][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.24-16.11.50:463][441]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.24-16.11.50:463][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.24-16.11.50:463][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.24-16.11.50:463][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.24-16.11.50:464][441]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.24-16.11.50:464][441]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.24-16.11.50:464][441]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.24-16.11.50:466][441]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.24-16.11.50:477][441]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (Realtek(R) Audio)
+[2024.05.24-16.11.50:477][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.24-16.11.50:477][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.24-16.11.50:477][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.24-16.11.50:478][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.05.24-16.11.50:478][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.05.24-16.11.50:480][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.05.24-16.11.50:480][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.05.24-16.11.50:480][441]LogInit: FAudioDevice initialized with ID 12.
+[2024.05.24-16.11.50:480][441]LogAudio: Display: Audio Device (ID: 12) registered with world 'Untitled_1'.
+[2024.05.24-16.11.50:480][441]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.05.24-16.11.50:483][441]LogLoad: Game class is 'BP_CardGameMode_C'
+[2024.05.24-16.11.50:484][441]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2024.05.24-19.11.50
+[2024.05.24-16.11.50:484][441]LogWorld: Bringing up level for play took: 0.001461
+[2024.05.24-16.11.50:485][441]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.05.24-16.11.50:485][441]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.05.24-16.11.50:488][441]LogStreaming: Display: FlushAsyncLoading(): 60 QueuedPackages, 0 AsyncPackages
+[2024.05.24-16.11.50:740][441]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.05.24-16.11.50:740][441]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.24-16.11.50:740][441]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.24-16.11.50:740][441]PIE: Server logged in
+[2024.05.24-16.11.50:741][441]PIE: Play in editor total start time 0,414 seconds.
+[2024.05.24-16.11.55:033][689]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-16.11.55:033][689]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-16.11.56:118][754]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-16.11.56:126][755]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-16.11.56:867][799]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-16.11.56:867][799]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-16.11.57:550][840]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-16.11.57:550][840]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-16.12.08:934][523]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-16.12.08:934][523]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-16.12.09:234][541]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-16.12.09:234][541]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-16.12.09:768][573]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-16.12.09:768][573]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-16.12.10:001][587]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-16.12.10:001][587]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-16.12.10:201][599]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-16.12.10:201][599]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-16.13.04:357][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-16.13.04:358][846]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.05.24-16.13.04:376][846]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-16.13.04:377][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-16.13.04:377][846]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.05.24-16.13.04:380][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.24-16.13.04:386][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-16.13.04:407][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-16.13.04:408][846]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.05.24-16.13.04:408][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.24-16.13.04:410][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.24-16.13.04:429][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.24-16.13.04:479][847]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.05.24-16.13.06:970][992]LogViewport: Scene viewport resized to 1761x998, mode Windowed.
+[2024.05.24-16.13.06:984][993]LogViewport: Scene viewport resized to 1452x933, mode Windowed.
+[2024.05.24-16.13.07:017][994]LogViewport: Scene viewport resized to 1340x910, mode Windowed.
+[2024.05.24-16.13.07:083][995]LogViewport: Scene viewport resized to 1258x893, mode Windowed.
+[2024.05.24-16.13.07:141][996]LogViewport: Scene viewport resized to 1255x892, mode Windowed.
+[2024.05.24-16.13.07:605][ 23]Cmd: SELECT NONE
