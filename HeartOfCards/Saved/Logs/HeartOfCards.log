@@ -2850,3 +2850,375 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.05.24-16.38.53:636][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
 [2024.05.24-16.38.53:653][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
 [2024.05.24-16.38.53:676][216]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.05.24-16.44.59:521][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.24-16.44.59:524][445]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.018
+[2024.05.24-16.44.59:524][445]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CardUI/W_CardHUD] ([2] browsable assets)...
+[2024.05.24-16.44.59:529][445]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CardUI/W_CardHUD.W_CardHUD]
+[2024.05.24-16.44.59:529][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardUI/W_CardHUD]
+[2024.05.24-16.44.59:534][445]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CardUI/W_CardHUD_Auto3
+[2024.05.24-16.44.59:534][445]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardHUD_Auto3B88948294FAA6297C1A8F5A50D2B837F.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Autosaves/Game/CardUI/W_CardHUD_Auto3.uasset'
+[2024.05.24-16.44.59:535][445]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.05.24-17.05.36:973][268]BlueprintLog: New page: Compile W_Card
+[2024.05.24-17.05.37:014][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.05.24-17.05.37:423][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.05.37:499][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.24-17.05.37:517][288]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.24-17.05.37:518][288]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card0FF629144511A5E36667FCBB25C26F0A.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.24-17.05.37:525][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 4.75 sec)
+[2024.05.24-17.05.37:527][288]AssetCheck: New page: Asset Save: W_Card
+[2024.05.24-17.05.37:527][288]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.24-17.06.55:860][777]BlueprintLog: New page: Compile W_Card
+[2024.05.24-17.06.55:900][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.05.24-17.06.56:697][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.06.56:770][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.24-17.06.56:790][821]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.24-17.06.56:790][821]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card8A9F10054587241591C1579E7146E1FB.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.24-17.06.56:797][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 4.85 sec)
+[2024.05.24-17.06.56:799][821]AssetCheck: New page: Asset Save: W_Card
+[2024.05.24-17.06.56:799][821]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.24-17.07.20:363][112]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CardUI/W_CardHand.W_CardHand
+[2024.05.24-17.07.20:363][112]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-17.07.20:363][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-17.07.20:375][112]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-17.07.20:375][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-17.08.59:903][818]BlueprintLog: New page: Compile W_CardHand
+[2024.05.24-17.08.59:949][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.05.24-17.09.00:511][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.09.00:575][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_CardHand" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_CardHand.uasset" SILENT=true
+[2024.05.24-17.09.00:599][844]LogSavePackage: Moving output files for package: /Game/CardUI/W_CardHand
+[2024.05.24-17.09.00:600][844]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardHand8C67FD8942BEFD158B8A918FF4FF857C.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_CardHand.uasset'
+[2024.05.24-17.09.00:608][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 4.95 sec)
+[2024.05.24-17.09.00:609][844]AssetCheck: New page: Asset Save: W_CardHand
+[2024.05.24-17.09.00:609][844]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_CardHand.W_CardHand
+[2024.05.24-17.09.39:781][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.05.24-17.09.39:784][436]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.022
+[2024.05.24-17.09.39:785][436]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CardUI/W_CardHUD] ([2] browsable assets)...
+[2024.05.24-17.09.39:785][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardUI/W_CardHUD]
+[2024.05.24-17.09.39:790][436]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CardUI/W_CardHUD_Auto4
+[2024.05.24-17.09.39:790][436]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardHUD_Auto455FA221247AE5A23853A51947DD7DA91.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Autosaves/Game/CardUI/W_CardHUD_Auto4.uasset'
+[2024.05.24-17.09.39:791][436]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CardUI/W_CardHand] ([2] browsable assets)...
+[2024.05.24-17.09.39:796][436]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CardUI/W_CardHand.W_CardHand]
+[2024.05.24-17.09.39:796][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardUI/W_CardHand]
+[2024.05.24-17.09.39:822][436]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CardUI/W_CardHand_Auto4
+[2024.05.24-17.09.39:822][436]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardHand_Auto47AD4B63F4BB27D98CDAB808A4B541F50.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Autosaves/Game/CardUI/W_CardHand_Auto4.uasset'
+[2024.05.24-17.09.39:823][436]LogFileHelpers: Auto-saving content packages took 0.038
+[2024.05.24-17.10.30:252][684]BlueprintLog: New page: Compile W_CardHand
+[2024.05.24-17.10.30:298][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.24-17.10.30:718][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.10.30:791][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_CardHand" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_CardHand.uasset" SILENT=true
+[2024.05.24-17.10.30:815][700]LogSavePackage: Moving output files for package: /Game/CardUI/W_CardHand
+[2024.05.24-17.10.30:816][700]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardHand3047EE4D4CB4881329DAFA824987E09C.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_CardHand.uasset'
+[2024.05.24-17.10.30:823][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 5.05 sec)
+[2024.05.24-17.10.30:825][700]AssetCheck: New page: Asset Save: W_CardHand
+[2024.05.24-17.10.30:825][700]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_CardHand.W_CardHand
+[2024.05.24-17.11.25:913][927]BlueprintLog: New page: Compile W_CardHand
+[2024.05.24-17.11.25:958][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.24-17.11.26:804][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.11.26:877][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_CardHand" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_CardHand.uasset" SILENT=true
+[2024.05.24-17.11.26:901][969]LogSavePackage: Moving output files for package: /Game/CardUI/W_CardHand
+[2024.05.24-17.11.26:901][969]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardHandFC49D41C49ED92EC0EE219A40508902A.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_CardHand.uasset'
+[2024.05.24-17.11.26:909][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 5.16 sec)
+[2024.05.24-17.11.26:910][969]AssetCheck: New page: Asset Save: W_CardHand
+[2024.05.24-17.11.26:910][969]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_CardHand.W_CardHand
+[2024.05.24-17.14.17:377][871]BlueprintLog: New page: Compile W_Card
+[2024.05.24-17.14.17:447][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.05.24-17.14.17:788][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.14.17:862][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.24-17.14.17:882][884]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.24-17.14.17:883][884]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardF8B813E44E522A985388479881567B51.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.24-17.14.17:891][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 5.26 sec)
+[2024.05.24-17.14.17:892][884]AssetCheck: New page: Asset Save: W_Card
+[2024.05.24-17.14.17:892][884]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.24-17.14.56:654][722]BlueprintLog: New page: Compile W_Card
+[2024.05.24-17.14.56:693][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.05.24-17.14.57:337][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.14.57:406][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.24-17.14.57:425][753]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.24-17.14.57:426][753]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardB8404F7B4795AFED50C027B71D268BEF.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.24-17.14.57:434][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 5.36 sec)
+[2024.05.24-17.14.57:435][753]AssetCheck: New page: Asset Save: W_Card
+[2024.05.24-17.14.57:435][753]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.24-17.14.58:794][824]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.24-17.14.58:801][824]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.24-17.14.58:801][824]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.05.24-17.14.58:881][824]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 80 ms (total: 1.10 sec)
+[2024.05.24-17.14.58:882][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.24-17.14.58:882][824]PIE: New page: PIE session: Untitled_1 (24 May 2024 23:14:58)
+[2024.05.24-17.14.58:882][824]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2024.05.24-17.14.58:884][824]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.05.24-17.14.58:905][825]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.05.24-17.14.58:915][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010258s)
+[2024.05.24-17.14.58:915][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.010301s)
+[2024.05.24-17.14.58:927][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.05.24-17.14.58:931][825]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-17.14.58:931][825]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-17.14.58:932][825]LogAIModule: Creating AISystem for world Untitled_1
+[2024.05.24-17.14.58:932][825]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.24-17.14.58:932][825]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.24-17.14.58:932][825]LogWorldPartition: UWorldPartition::Initialize : World = Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.24-17.14.58:932][825]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.24-17.14.58:935][825]LogContentBundle: [Untitled_1(Standalone)] Creating new contrainer.
+[2024.05.24-17.14.58:935][825]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 244 ms)
+[2024.05.24-17.14.58:935][825]LogPlayLevel: PIE: World Init took: (0.004009s)
+[2024.05.24-17.14.58:935][825]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.05.24-17.14.58:935][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.24-17.14.58:935][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.24-17.14.58:935][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.24-17.14.58:935][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.24-17.14.58:935][825]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.24-17.14.58:935][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.24-17.14.58:935][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.24-17.14.58:935][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.24-17.14.58:936][825]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.24-17.14.58:936][825]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.24-17.14.58:936][825]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.24-17.14.58:937][825]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.24-17.14.58:948][825]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (Realtek(R) Audio)
+[2024.05.24-17.14.58:948][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.24-17.14.58:948][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.24-17.14.58:948][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.24-17.14.58:949][825]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.05.24-17.14.58:949][825]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.05.24-17.14.58:951][825]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.05.24-17.14.58:951][825]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.05.24-17.14.58:951][825]LogInit: FAudioDevice initialized with ID 14.
+[2024.05.24-17.14.58:951][825]LogAudio: Display: Audio Device (ID: 14) registered with world 'Untitled_1'.
+[2024.05.24-17.14.58:951][825]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.05.24-17.14.58:953][825]LogLoad: Game class is 'BP_CardGameMode_C'
+[2024.05.24-17.14.58:955][825]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2024.05.24-20.14.58
+[2024.05.24-17.14.58:955][825]LogWorld: Bringing up level for play took: 0.001537
+[2024.05.24-17.14.58:956][825]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.05.24-17.14.58:956][825]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.05.24-17.14.58:959][825]LogStreaming: Display: FlushAsyncLoading(): 60 QueuedPackages, 0 AsyncPackages
+[2024.05.24-17.14.59:187][825]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.05.24-17.14.59:187][825]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.24-17.14.59:187][825]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.24-17.14.59:187][825]PIE: Server logged in
+[2024.05.24-17.14.59:188][825]PIE: Play in editor total start time 0,387 seconds.
+[2024.05.24-17.15.00:671][910]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-17.15.00:671][910]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-17.15.00:888][923]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-17.15.00:888][923]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-17.15.01:070][934]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-17.15.01:070][934]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-17.15.01:254][945]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-17.15.01:254][945]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-17.15.01:437][956]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-17.15.01:437][956]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-17.15.03:704][ 92]LogBlueprintUserMessages: [W_Card_C_4] Drag Detected
+[2024.05.24-17.15.04:737][154]LogBlueprintUserMessages: [W_Card_C_4] Drag cancelled
+[2024.05.24-17.15.07:532][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-17.15.07:532][320]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.05.24-17.15.07:552][320]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-17.15.07:552][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-17.15.07:552][320]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.05.24-17.15.07:555][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.24-17.15.07:560][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-17.15.07:578][320]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.24-17.15.07:581][320]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.05.24-17.15.07:581][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.05.24-17.15.07:583][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.05.24-17.15.07:586][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-17.15.07:600][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.24-17.15.07:621][321]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.05.24-17.19.49:343][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.24-17.19.49:346][581]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.019
+[2024.05.24-17.19.49:346][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CardUI/W_CardHUD] ([2] browsable assets)...
+[2024.05.24-17.19.49:346][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardUI/W_CardHUD]
+[2024.05.24-17.19.49:351][581]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CardUI/W_CardHUD_Auto5
+[2024.05.24-17.19.49:351][581]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardHUD_Auto5AE2E7402441C1E039AD8CD8B64194066.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Autosaves/Game/CardUI/W_CardHUD_Auto5.uasset'
+[2024.05.24-17.19.49:352][581]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CardUI/W_Card] ([2] browsable assets)...
+[2024.05.24-17.19.49:357][581]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CardUI/W_Card.W_Card]
+[2024.05.24-17.19.49:357][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardUI/W_Card]
+[2024.05.24-17.19.49:379][581]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CardUI/W_Card_Auto5
+[2024.05.24-17.19.49:380][581]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card_Auto5C4A4544140AA4637A1FF10BD879EB3A7.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Autosaves/Game/CardUI/W_Card_Auto5.uasset'
+[2024.05.24-17.19.49:380][581]LogFileHelpers: Auto-saving content packages took 0.035
+[2024.05.24-17.32.49:127][921]LogDerivedDataCache: C:/Users/90543/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.062 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2109 files in 3387 folders with total size 412 MiB.
+[2024.05.24-17.41.30:716][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.24-17.41.30:718][475]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.019
+[2024.05.24-17.41.30:718][475]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CardUI/W_Card] ([2] browsable assets)...
+[2024.05.24-17.41.30:722][475]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CardUI/W_Card.W_Card]
+[2024.05.24-17.41.30:722][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardUI/W_Card]
+[2024.05.24-17.41.30:741][475]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CardUI/W_Card_Auto6
+[2024.05.24-17.41.30:741][475]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card_Auto61983120748206B4ED5F6959D0D9E6D84.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Autosaves/Game/CardUI/W_Card_Auto6.uasset'
+[2024.05.24-17.41.30:742][475]LogFileHelpers: Auto-saving content packages took 0.024
+[2024.05.24-17.42.13:910][728]BlueprintLog: New page: Compile W_Card
+[2024.05.24-17.42.13:948][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.24-17.42.14:433][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.42.14:499][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.24-17.42.14:518][749]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.24-17.42.14:519][749]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardC1CBE8F84B71C6B53926A980EA3C3894.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.24-17.42.14:526][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 5.45 sec)
+[2024.05.24-17.42.14:527][749]AssetCheck: New page: Asset Save: W_Card
+[2024.05.24-17.42.14:527][749]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.24-17.43.51:412][442]BlueprintLog: New page: Compile W_CardHand
+[2024.05.24-17.43.51:464][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.24-17.43.52:017][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.43.52:099][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_CardHand" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_CardHand.uasset" SILENT=true
+[2024.05.24-17.43.52:124][467]LogSavePackage: Moving output files for package: /Game/CardUI/W_CardHand
+[2024.05.24-17.43.52:124][467]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardHand07CB5EC04760367ABE0D4CB2375C26D3.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_CardHand.uasset'
+[2024.05.24-17.43.52:132][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 5.56 sec)
+[2024.05.24-17.43.52:134][467]AssetCheck: New page: Asset Save: W_CardHand
+[2024.05.24-17.43.52:134][467]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_CardHand.W_CardHand
+[2024.05.24-17.45.06:727][336]BlueprintLog: New page: Compile W_CardHand
+[2024.05.24-17.45.06:771][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.24-17.45.07:433][366]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.45.07:502][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_CardHand" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_CardHand.uasset" SILENT=true
+[2024.05.24-17.45.07:525][366]LogSavePackage: Moving output files for package: /Game/CardUI/W_CardHand
+[2024.05.24-17.45.07:526][366]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardHand64BDF250436F9039BBE14F98245B9E2A.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_CardHand.uasset'
+[2024.05.24-17.45.07:535][366]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 5.67 sec)
+[2024.05.24-17.45.07:536][366]AssetCheck: New page: Asset Save: W_CardHand
+[2024.05.24-17.45.07:536][366]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_CardHand.W_CardHand
+[2024.05.24-17.46.54:289][585]BlueprintLog: New page: Compile W_Card
+[2024.05.24-17.46.54:364][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.05.24-17.46.54:817][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.46.54:878][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.24-17.46.54:897][605]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.24-17.46.54:897][605]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card8D5B755C491FC5D08B2A12B13487581C.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.24-17.46.54:905][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.75 sec)
+[2024.05.24-17.46.54:907][605]AssetCheck: New page: Asset Save: W_Card
+[2024.05.24-17.46.54:907][605]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.24-17.47.04:050][100]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.24-17.48.21:673][191]BlueprintLog: New page: Compile W_Card
+[2024.05.24-17.48.21:714][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.24-17.48.22:243][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.48.22:306][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.24-17.48.22:325][213]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.24-17.48.22:325][213]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardD2A8BDBE4C62A0060D791184C8371222.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.24-17.48.22:332][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 5.84 sec)
+[2024.05.24-17.48.22:333][213]AssetCheck: New page: Asset Save: W_Card
+[2024.05.24-17.48.22:333][213]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.24-17.48.50:056][749]BlueprintLog: New page: Compile W_Card
+[2024.05.24-17.48.50:098][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.24-17.48.57:316][173]BlueprintLog: New page: Compile W_Card
+[2024.05.24-17.48.57:357][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.05.24-17.48.57:978][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.48.58:048][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.24-17.48.58:068][203]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.24-17.48.58:068][203]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card95960AD0460EA456E739DF8D143C48F4.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.24-17.48.58:077][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 5.94 sec)
+[2024.05.24-17.48.58:078][203]AssetCheck: New page: Asset Save: W_Card
+[2024.05.24-17.48.58:078][203]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.24-17.49.52:877][106]BlueprintLog: New page: Compile W_Card
+[2024.05.24-17.49.52:922][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.05.24-17.49.53:283][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.49.53:353][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.24-17.49.53:373][123]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.24-17.49.53:373][123]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardD639C7F84C296E05A7E474B6A4F43B93.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.24-17.49.53:381][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 6.04 sec)
+[2024.05.24-17.49.53:382][123]AssetCheck: New page: Asset Save: W_Card
+[2024.05.24-17.49.53:382][123]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.24-17.50.54:685][539]BlueprintLog: New page: Compile W_Card
+[2024.05.24-17.50.54:726][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.24-17.50.55:680][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.50.55:752][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.24-17.50.55:772][588]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.24-17.50.55:772][588]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card91F81CC64A747CDCB9C0809F78501EA8.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.24-17.50.55:781][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 6.14 sec)
+[2024.05.24-17.50.55:782][588]AssetCheck: New page: Asset Save: W_Card
+[2024.05.24-17.50.55:782][588]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.24-17.51.05:929][795]BlueprintLog: New page: Compile W_Card
+[2024.05.24-17.51.05:974][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.24-17.51.06:313][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.51.06:394][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_Card" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset" SILENT=true
+[2024.05.24-17.51.06:414][807]LogSavePackage: Moving output files for package: /Game/CardUI/W_Card
+[2024.05.24-17.51.06:414][807]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_Card88852A1345FD2851B5F773B478158776.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_Card.uasset'
+[2024.05.24-17.51.06:421][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 6.25 sec)
+[2024.05.24-17.51.06:423][807]AssetCheck: New page: Asset Save: W_Card
+[2024.05.24-17.51.06:423][807]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_Card.W_Card
+[2024.05.24-17.51.31:284][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.24-17.51.31:288][907]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.016
+[2024.05.24-17.51.31:288][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CardUI/W_CardHUD] ([2] browsable assets)...
+[2024.05.24-17.51.31:288][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/CardUI/W_CardHUD]
+[2024.05.24-17.51.31:302][907]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CardUI/W_CardHUD_Auto7
+[2024.05.24-17.51.31:303][907]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardHUD_Auto7D6ADBF1C4CAA2648FDB6FAAFCE68A300.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/Autosaves/Game/CardUI/W_CardHUD_Auto7.uasset'
+[2024.05.24-17.51.31:303][907]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.05.24-17.51.48:487][307]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.24-17.51.48:494][307]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.24-17.51.48:494][307]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.05.24-17.51.48:578][307]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 83 ms (total: 1.19 sec)
+[2024.05.24-17.51.48:578][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.24-17.51.48:578][307]PIE: New page: PIE session: Untitled_1 (24 May 2024 23:51:48)
+[2024.05.24-17.51.48:578][307]LogPlayLevel: Display: Creating online subsystem for client :Context_29
+[2024.05.24-17.51.48:581][307]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.05.24-17.51.48:601][308]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.05.24-17.51.48:611][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010471s)
+[2024.05.24-17.51.48:611][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.010514s)
+[2024.05.24-17.51.48:623][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.24-17.51.48:624][308]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-17.51.48:624][308]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-17.51.48:625][308]LogAIModule: Creating AISystem for world Untitled_1
+[2024.05.24-17.51.48:626][308]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.24-17.51.48:626][308]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.24-17.51.48:626][308]LogWorldPartition: UWorldPartition::Initialize : World = Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.24-17.51.48:626][308]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.24-17.51.48:628][308]LogContentBundle: [Untitled_1(Standalone)] Creating new contrainer.
+[2024.05.24-17.51.48:628][308]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 247 ms)
+[2024.05.24-17.51.48:628][308]LogPlayLevel: PIE: World Init took: (0.004151s)
+[2024.05.24-17.51.48:628][308]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.05.24-17.51.48:628][308]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.24-17.51.48:628][308]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.24-17.51.48:628][308]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.24-17.51.48:628][308]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.24-17.51.48:628][308]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.24-17.51.48:628][308]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.24-17.51.48:628][308]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.24-17.51.48:628][308]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.24-17.51.48:629][308]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.24-17.51.48:629][308]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.24-17.51.48:629][308]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.24-17.51.48:631][308]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.24-17.51.48:642][308]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (Realtek(R) Audio)
+[2024.05.24-17.51.48:642][308]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.24-17.51.48:642][308]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.24-17.51.48:642][308]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.24-17.51.48:643][308]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.05.24-17.51.48:643][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.05.24-17.51.48:645][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.05.24-17.51.48:645][308]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.05.24-17.51.48:645][308]LogInit: FAudioDevice initialized with ID 15.
+[2024.05.24-17.51.48:645][308]LogAudio: Display: Audio Device (ID: 15) registered with world 'Untitled_1'.
+[2024.05.24-17.51.48:645][308]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.05.24-17.51.48:647][308]LogLoad: Game class is 'BP_CardGameMode_C'
+[2024.05.24-17.51.48:648][308]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2024.05.24-20.51.48
+[2024.05.24-17.51.48:650][308]LogWorld: Bringing up level for play took: 0.001463
+[2024.05.24-17.51.48:651][308]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.05.24-17.51.48:651][308]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.05.24-17.51.48:654][308]LogStreaming: Display: FlushAsyncLoading(): 60 QueuedPackages, 0 AsyncPackages
+[2024.05.24-17.51.48:874][308]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.05.24-17.51.48:874][308]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.24-17.51.48:874][308]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.24-17.51.48:874][308]PIE: Server logged in
+[2024.05.24-17.51.48:875][308]PIE: Play in editor total start time 0,382 seconds.
+[2024.05.24-17.51.50:334][392]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-17.51.50:335][392]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-17.51.50:535][404]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-17.51.50:535][404]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-17.51.50:717][415]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-17.51.50:717][415]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-17.51.50:901][426]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-17.51.50:901][426]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-17.51.51:068][436]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2024.05.24-17.51.51:068][436]LogScript: Warning: Script Msg called by: BPFL_Cards_C /Game/CardUI/BPFL_Cards.Default__BPFL_Cards_C
+[2024.05.24-17.52.05:182][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-17.52.05:182][281]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.05.24-17.52.05:202][281]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-17.52.05:202][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-17.52.05:202][281]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.05.24-17.52.05:206][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.24-17.52.05:212][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-17.52.05:230][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-17.52.05:230][281]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.05.24-17.52.05:230][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.05.24-17.52.05:232][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.05.24-17.52.05:253][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.24-17.52.05:274][282]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.05.24-17.52.22:016][432]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.24-17.52.25:485][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.05.24-17.52.25:490][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-17.52.25:571][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CardUI/W_CardHUD" FILE="C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_CardHUD.uasset" SILENT=true
+[2024.05.24-17.52.25:575][629]LogSavePackage: Moving output files for package: /Game/CardUI/W_CardHUD
+[2024.05.24-17.52.25:576][629]LogSavePackage: Moving 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Saved/W_CardHUD53E201C64DF5FE59D2C168B77DBEC6D5.tmp' to 'C:/Users/90543/Documents/Unreal Projects/CardGameGithub/CardGame/HeartOfCards/Content/CardUI/W_CardHUD.uasset'
+[2024.05.24-17.52.25:583][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 6.34 sec)
+[2024.05.24-17.52.25:586][629]AssetCheck: New page: Asset Save: W_CardHUD
+[2024.05.24-17.52.25:586][629]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CardUI/W_CardHUD.W_CardHUD
